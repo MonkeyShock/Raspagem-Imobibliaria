@@ -12,33 +12,34 @@ Este projeto coleta anúncios imobiliários públicos em sites, extrai dados est
 
 ## 📦 Funcionalidades
 
-- Extração de anúncios: endereço, preço, número de quartos, área (m²), URL do anúncio  
-- Filtros configuráveis: por bairro, tipo de imóvel, faixa de preço  
-- Tratamento de erros: timeouts, bloqueios, retries  
-- Logs detalhados de status e exceções de scraping  
-- Exportação de dados para `.csv` ou base SQLite  
+* Extração de anúncios: endereço, preço, número de quartos, área (m²), URL do anúncio
+* Filtros configuráveis: por bairro, tipo de imóvel, faixa de preço
+* Tratamento de erros: timeouts, bloqueios, retries
+* Logs detalhados de status e exceções de scraping
+* Exportação de dados para `.csv` ou base SQLite
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Componente       | Ferramenta                         |
-|------------------|------------------------------------|
-| Linguagem        | Python 3.x                         |
-| Requisições HTTP | `requests` ou opcionalmente `Selenium` |
-| Parsing HTML     | `BeautifulSoup` (ou XPath)         |
-| Manipulação de dados | `pandas`                        |
-| Persistência      | CSV ou SQLite (`sqlite3`)          |
+| Componente           | Ferramenta                             |
+| -------------------- | -------------------------------------- |
+| Linguagem            | Python 3.x                             |
+| Requisições HTTP     | `requests` ou opcionalmente `Selenium` |
+| Parsing HTML         | `BeautifulSoup` (ou XPath)             |
+| Manipulação de dados | `pandas`                               |
+| Persistência         | CSV ou SQLite (`sqlite3`)              |
 
 ---
 
 ## ⚙️ Instalação e Uso
 
-1. Clone o repositório:  
+1. Clone o repositório:
+
    ```bash
    git clone https://github.com/MonkeyShock/Raspagem-Imobibliaria.git
    cd Raspagem-Imobibliaria
-````
+   ```
 
 2. Crie e ative um ambiente virtual:
 
@@ -82,7 +83,7 @@ Este projeto coleta anúncios imobiliários públicos em sites, extrai dados est
 ## 💡 Dicas de Personalização
 
 * **Seletores CSS/XPath**: adapte estrutura de parsing se o HTML mudar
-* **Páginação**: modifique a lógica se houver múltiplas páginas
+* **Paginação**: modifique a lógica se houver múltiplas páginas
 * **Delays e Headers**: use para evitar ser bloqueado pelos sites
 * **Método de saída**: facilmente alterável entre CSV, JSON ou base SQL
 
@@ -103,9 +104,6 @@ Este scraper automatiza a coleta de dados de anúncios imobiliários, facilitand
 
 ---
 
-## 🙋‍♂️ Precisa de ajuda?
+## 🤝🏼 Precisa de ajuda?
 
 Se você puder enviar informações como o conteúdo do script (ex: `scraper.py`), as bibliotecas utilizadas, um exemplo real de saída ou seletores que já usa, posso deixar o README ainda mais fiel ao seu projeto. É só me mandar os detalhes! 😊
-
-::contentReference[oaicite:0]{index=0}
-
