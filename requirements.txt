@@ -1,0 +1,6 @@
+selenium
+undetected-chromedriver
+bs4
+folium
+lxml
+tk
