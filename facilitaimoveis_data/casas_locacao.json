@@ -1,0 +1,12 @@
+[
+  {
+    "negocio": "Locação",
+    "tipo": "Casa",
+    "endereco": "Vila São José Extensão, Goiânia / GO",
+    "dormitorios": 1,
+    "banheiros": 2,
+    "vagas": 6,
+    "area_m2": 248.96,
+    "preco": 2200.0
+  }
+]

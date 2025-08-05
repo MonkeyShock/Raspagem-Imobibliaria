@@ -1,0 +1,152 @@
+[
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Jardim Himalaia, Aparecida de Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 198000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Vila São José Extensão, Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 6,
+    "vagas": 248,
+    "area_m2": 360.0,
+    "preco": 250000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Setor Parque Tremendão, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 275000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Jardim Buriti Sereno, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 295000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Residencial Vereda dos Buritis, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 350000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Vila Mariana, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 395000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Vila Rosa, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 420000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Parque Veiga Jardim, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 580000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Jardim Guanabara, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 650000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Sítios Santa Luzia Residencial, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 695000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Sítios Santa Luzia Residencial, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 695000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Cidade Jardim, Goiânia / GO",
+    "dormitorios": 5,
+    "banheiros": 1,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 880000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Cidade Jardim, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 890000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Jardim Guanabara, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 950000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Casa",
+    "endereco": "Jardim Mont Serrat, Aparecida de Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 3,
+    "vagas": 4,
+    "area_m2": null,
+    "preco": 990000.0
+  }
+]

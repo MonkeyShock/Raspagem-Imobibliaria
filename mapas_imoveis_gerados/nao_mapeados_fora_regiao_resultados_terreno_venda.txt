@@ -1,0 +1,19 @@
+Itens NÃO mapeados (fora da região) para resultados_terreno_venda:
+Idx: 11, End: Rua PR 06, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-14.4095261,-51.31668), Fonte: Existente
+Idx: 20, End: Rua Onério Martins Vieira, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-14.4095261,-51.31668), Fonte: Existente
+Idx: 44, End: Rua G16, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-14.4095261,-51.31668), Fonte: Existente
+Idx: 60, End: Rua da Vitória, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-19.8629834,-43.8907181), Fonte: Existente
+Idx: 64, End: Rua Capitólio, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-18.6622512,-47.6915857), Fonte: Existente
+Idx: 68, End: Rua 12, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-19.9590941,-43.4139769), Fonte: Existente
+Idx: 79, End: Rua Rio Preto, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-19.9590941,-43.4139769), Fonte: Existente
+Idx: 83, End: Rua BH1, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-18.2778594,-46.6227138), Fonte: Existente
+Idx: 87, End: Rua FV9, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-14.4095261,-51.31668), Fonte: Existente
+Idx: 89, End: Rua PR 06, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-14.4095261,-51.31668), Fonte: Existente
+Idx: 93, End: Avenida Lisboa, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-22.1020247,-49.0332851), Fonte: Existente
+Idx: 100, End: Rua Rio Quente, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-17.266375,-48.9729543), Fonte: Existente
+Idx: 106, End: Rua Olinda, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-18.1336963,-46.7932539), Fonte: Existente
+Idx: 111, End: Rua Paris, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-17.4953224,-49.228766), Fonte: Existente
+Idx: 128, End: Rua 10, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (-19.9590941,-43.4139769), Fonte: Existente
+Idx: 130, End: Via Granada, Lote/Terreno para comprar em, Goiânia, Brasil, Coords: (14.1576412,-120.446087), Fonte: Existente
+Idx: 212, End: Lote/Terreno para comprar emResidencial San Marino, Goiânia, Goiânia, Brasil, Coords: (-19.9304061,-47.631407), Fonte: Existente
+Idx: 303, End: Avenida Montes Claros, Lote/Terreno para comprar emResidencial Montes Claros, Goiânia, Goiânia, Brasil, Coords: (-16.6974227,-46.6228155), Fonte: Existente

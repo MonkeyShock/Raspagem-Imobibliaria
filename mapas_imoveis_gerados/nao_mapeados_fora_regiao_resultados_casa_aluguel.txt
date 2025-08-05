@@ -1,0 +1,9 @@
+Itens NÃO mapeados (fora da região) para resultados_casa_aluguel:
+Idx: 34, End: Porangatu, Centro, Coords: (-13.4421567,-49.1502739), Fonte: Existente
+Idx: 62, End: Planaltina, Setor Norte, Coords: (-15.4435452,-47.6069695), Fonte: Existente
+Idx: 102, End: Alto Paraíso de Goiás, Coords: (-14.1375039,-47.516804), Fonte: Existente
+Idx: 166, End: Goianésia, Residencial Parque das Palmeiras, Coords: (-15.3293364,-49.1418636), Fonte: Existente
+Idx: 202, End: Goiânia, Setor Bueno, Coords: (-19.9641196,-43.4070587), Fonte: Cache
+Idx: 207, End: Goiânia, Residencial Buena Vista IV, Coords: (-19.6460766,-43.2231259), Fonte: Geocodificado
+Idx: 226, End: Niquelândia, Coords: (-14.4708435,-48.4479122), Fonte: Existente
+Idx: 274, End: Praça Jockey Club, Casa para alugar em, Goiânia, Brasil, Coords: (-19.7682776,-46.3357686), Fonte: Existente

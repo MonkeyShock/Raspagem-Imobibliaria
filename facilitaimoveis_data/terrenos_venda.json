@@ -1,0 +1,82 @@
+[
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Jardim Dom Bosco 2ª Etapa, Aparecida de Goiânia / GO",
+    "dormitorios": 366,
+    "banheiros": null,
+    "vagas": null,
+    "area_m2": null,
+    "preco": 90000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Jardim das Cascatas, Aparecida de Goiânia / GO",
+    "dormitorios": 387,
+    "banheiros": 387,
+    "vagas": null,
+    "area_m2": null,
+    "preco": 110000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Residencial Solar Central Park, Aparecida de Goiânia / GO",
+    "dormitorios": 360,
+    "banheiros": null,
+    "vagas": null,
+    "area_m2": null,
+    "preco": 115000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Vila São José Extensão, Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 6,
+    "vagas": 248,
+    "area_m2": 360.0,
+    "preco": 250000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Parque Amazônia, Goiânia / GO",
+    "dormitorios": 735,
+    "banheiros": 735,
+    "vagas": null,
+    "area_m2": null,
+    "preco": 950000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Cardoso Continuação, Aparecida de Goiânia / GO",
+    "dormitorios": 1,
+    "banheiros": 1,
+    "vagas": null,
+    "area_m2": null,
+    "preco": 1000000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Setor Oeste, Goiânia / GO",
+    "dormitorios": 560,
+    "banheiros": null,
+    "vagas": null,
+    "area_m2": null,
+    "preco": 1500000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Lote",
+    "endereco": "Parque Amazônia, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 1600000.0
+  }
+]

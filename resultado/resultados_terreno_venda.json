@@ -1,0 +1,5300 @@
+[
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ema8, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 136000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-emas-goiania-go-200m2-id-2783909627/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6686736,
+      "longitude": -49.2694662
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida César Lattes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 20000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-novo-horizonte-goiania-20000m2-id-2809416818/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7282832,
+      "longitude": -49.2931142
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua I9, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-ipanema-goiania-360m2-id-2808789027/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6849358,
+      "longitude": -49.3707547
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua BM15, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-brisas-da-mata-goiania-300m2-id-2807484128/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6654974,
+      "longitude": -49.2635093
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Guaporé, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-200m2-id-2806844132/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5995074,
+      "longitude": -49.3746026
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida César Lattes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 20000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-novo-horizonte-goiania-20000m2-id-2809412916/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7282832,
+      "longitude": -49.2931142
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Vera Cruz, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-guanabara-goiania-1000m2-id-2809447514/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7251467,
+      "longitude": -49.3252059
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Central, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-nova-esperanca-goiania-1000m2-id-2809112024/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6711703,
+      "longitude": -49.270429
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua NM 2, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 303.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-dom-rafael-goiania-303m2-id-2763610759/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6765366,
+      "longitude": -49.1903488
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida César Lattes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-novo-horizonte-goiania-1000m2-id-2809165432/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7282832,
+      "longitude": -49.2931142
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 06, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-portal-do-oriente-goiania-270m2-id-2715678837/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -14.4095261,
+      "longitude": -51.31668
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Campos Verdes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 88000.0,
+    "area_m2": 266.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-village-campos-verdes-goiania-266m2-id-2794369428/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6765366,
+      "longitude": -49.1903488
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Bernardo Sayão, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-centro-oeste-goiania-1000m2-id-2809420443/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6800459,
+      "longitude": -49.2854635
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 21 de Abril, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1100.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-parque-flamboyant-goiania-360m2-id-2776042539/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.752453,
+      "longitude": -49.3710687
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Luíza M. Coimbra Bueno, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 498.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-jardins-do-cerrado-3-goiania-498m2-id-2673180991/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6811576,
+      "longitude": -49.3590882
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 1239.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-loteamento-tropical-ville-goiania-1239m2-id-2807726114/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.735957,
+      "longitude": -49.2865099
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Bernardo Sayão, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-centro-oeste-goiania-1000m2-id-2809421075/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6800459,
+      "longitude": -49.2854635
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua das Camélias, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 138000.0,
+    "area_m2": 420.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-botanico-goiania-420m2-id-2741862170/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6777746,
+      "longitude": -49.2269419
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Lela, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 122000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-mundo-novo-2-goiania-200m2-id-2750328061/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7023533,
+      "longitude": -49.2772045
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Onério Martins Vieira, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-garcas-goiania-360m2-id-2581042792/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -14.4095261,
+      "longitude": -51.31668
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Campos Verdes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 80000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-village-campos-verdes-goiania-250m2-id-2794369621/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6765366,
+      "longitude": -49.1903488
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua NS 01, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-nossa-senhora-auxiliadora-goiania-200m2-id-2771192122/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6638252,
+      "longitude": -49.2750524
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Bela Vista, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 6059.0,
+    "area_m2": 180.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-piscina-residencial-brisas-do-cerrado-goiania-180m2-id-2734278714/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7133371,
+      "longitude": -49.2865099
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua F4, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fidelis-goiania-200m2-id-2757680433/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.752453,
+      "longitude": -49.3710687
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua R.O.-01, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 9600.0,
+    "area_m2": 392.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-reserva-do-oriente-goiania-392m2-id-2807871795/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6918532,
+      "longitude": -49.2977276
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Vera Cruz, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-guanabara-goiania-1000m2-id-2808751715/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7251467,
+      "longitude": -49.3252059
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua I3, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 308.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-ipanema-goiania-308m2-id-2737177452/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6849358,
+      "longitude": -49.3707547
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FP34, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-recreio-do-funcionario-publico-goiania-360m2-id-2754904530/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7003944,
+      "longitude": -49.2717133
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua AB28, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-alice-barbosa-i-goiania-270m2-id-2808961415/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6388648,
+      "longitude": -49.240622
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RDR 3, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 301.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-dom-rafael-goiania-301m2-id-2763614017/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6959852,
+      "longitude": -49.34115
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua LP5, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-lucy-pinheiro-goiania-300m2-id-2724153642/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6560693,
+      "longitude": -49.1728628
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua AB27, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-alice-barbosa-i-goiania-270m2-id-2808924216/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.626072,
+      "longitude": -49.2959955
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RD 6, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-dezopi-goiania-300m2-id-2803573922/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6564404,
+      "longitude": -49.3679904
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Valdir Camárcio, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 122962.0,
+    "area_m2": 225.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-frei-galvao-goiania-225m2-id-2760004994/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6820931,
+      "longitude": -49.2731697
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RMP 22, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-monte-pascoal-goiania-300m2-id-2807136143/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6910528,
+      "longitude": -49.4009917
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 11, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 85000.0,
+    "area_m2": 301.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-itaipu-goiania-301m2-id-2802344726/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7207082,
+      "longitude": -49.2804865
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FN 28, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-fonte-nova-goiania-200m2-id-2778699367/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6273473,
+      "longitude": -49.3136957
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Frei Galvão, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 122034.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-frei-galvao-goiania-250m2-id-2774975716/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5927578,
+      "longitude": -49.2040233
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Dona Luzia, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 420.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-condominio-amin-camargo-goiania-420m2-id-2616330672/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7318958,
+      "longitude": -49.3027119
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Adeli Guirandelli, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-energia-eletrica-setor-orientville-goiania-360m2-id-2805159276/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.228766
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua das Hortênsias, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 354.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-botanico-goiania-354m2-id-2765536265/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6484276,
+      "longitude": -49.3532431
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Ipês, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 460.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-village-maringa-goiania-460m2-id-2794322519/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7302896,
+      "longitude": -49.2973268
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua José Hermano, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-campinas-goiania-1000m2-id-2809139521/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6975838,
+      "longitude": -49.2752094
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua G16, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-grajau-goiania-300m2-id-2806101979/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -14.4095261,
+      "longitude": -51.31668
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RP1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-paraiso-goiania-200m2-id-2798397142/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6427146,
+      "longitude": -49.1793501
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Clotário de Freitas, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 304.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-sao-jose-goiania-304m2-id-2786809115/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6884424,
+      "longitude": -49.2750524
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua do Prado, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 384.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-barra-da-tijuca-goiania-384m2-id-2773920438/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7219401,
+      "longitude": -49.2787759
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV 36, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fidelis-goiania-200m2-id-2745130400/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7450668,
+      "longitude": -49.3668725
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ema1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 124500.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-emas-goiania-200m2-id-2776733782/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7147279,
+      "longitude": -49.2694662
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua CP11, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 449.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-conjunto-primavera-goiania-449m2-id-2807979029/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6638252,
+      "longitude": -49.2750524
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua do Clube, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-vila-mutirao-i-goiania-360m2-id-2804482140/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6849358,
+      "longitude": -49.3707547
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 29, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 109990.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-itaipu-goiania-360m2-id-2779925465/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7881879,
+      "longitude": -49.3718993
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Monsenhor Primo Vieira, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-sao-jose-goiania-300m2-id-2728711022/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6848561,
+      "longitude": -49.2748145
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Porto 5, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 121000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-portugues-goiania-200m2-id-2804561515/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7091467,
+      "longitude": -49.2703587
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio São Francisco, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 201.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-loteamento-agua-azul-goiania-201m2-id-2800370158/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6614847,
+      "longitude": -49.2805518
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Sumarés, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 505.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-botanico-goiania-505m2-id-2778206615/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7244766,
+      "longitude": -49.3317016
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua LPK1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-london-park-goiania-300m2-id-2793641942/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV 32, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-forteville-extensao-goiania-200m2-id-2802804022/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7453499,
+      "longitude": -49.3692277
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 19, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 121000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-varanda-residencial-recanto-do-bosque-goiania-300m2-id-2778204048/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6025443,
+      "longitude": -49.3093909
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua da Vitória, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 75000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-santa-fe-i-goiania-250m2-id-2807611337/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -19.8629834,
+      "longitude": -43.8907181
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Antônio Fidelis, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fidelis-goiania-200m2-id-2740224140/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7089418,
+      "longitude": -49.2752094
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua MT1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 180.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-montes-claros-goiania-180m2-id-2775601422/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6850082,
+      "longitude": -49.3034966
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 45, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 391.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-esgoto-condominio-das-esmeraldas-goiania-391m2-id-2774967136/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.63651,
+      "longitude": -49.3004526
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Capitólio, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-acropole-ii-goiania-200m2-id-2787501741/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -18.6622512,
+      "longitude": -47.6915857
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Porto 1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130862.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-portugues-goiania-200m2-id-2730671411/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7099649,
+      "longitude": -49.2948687
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Central, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-nova-esperanca-goiania-1000m2-id-2808581642/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6711703,
+      "longitude": -49.270429
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua MT8, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 106347.0,
+    "area_m2": 180.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-energia-eletrica-residencial-montes-claros-goiania-180m2-id-2626120700/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 12, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 89000.0,
+    "area_m2": 269.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-vila-bandeirantes-goiania-269m2-id-2807592099/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -19.9590941,
+      "longitude": -43.4139769
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Vó Leopoldina, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 105000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-das-rosas-goiania-200m2-id-2778206458/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6849358,
+      "longitude": -49.3707547
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua HM3, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 318.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-hugo-de-moraes-goiania-318m2-id-2802219732/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6918532,
+      "longitude": -49.2769835
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SV 4, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 268.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-solar-ville-goiania-268m2-id-2781699571/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6863503,
+      "longitude": -49.2128804
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Arcádia, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 128000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-acropole-ii-goiania-200m2-id-2750329699/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7403362,
+      "longitude": -49.3572613
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua CP36, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-carolina-parque-extensao-goiania-200m2-id-2789363663/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6988113,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Fonte das Águas, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 200000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-200000m2-id-2689598654/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5995538,
+      "longitude": -49.3742581
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua TV9, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-loteamento-tropical-verde-goiania-300m2-id-2575834683/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6938422,
+      "longitude": -49.2316526
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Soneca, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 105000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-ipanema-goiania-360m2-id-2778206323/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7165219,
+      "longitude": -49.3465402
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua G10, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 109998.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-infraestrutura-internet-setor-grajau-goiania-300m2-id-2780739130/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6988113,
+      "longitude": -49.3028479
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Ary José Cascão, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-200m2-id-2798398023/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6691961,
+      "longitude": -49.2973882
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Preto, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 119000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-360m2-id-2614818739/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -19.9590941,
+      "longitude": -43.4139769
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Inácio Ferreira de Faria, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 365.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-park-solar-goiania-365m2-id-2804452015/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6850227,
+      "longitude": -49.3065825
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua João XXIII, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 80000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-santa-fe-goiania-300m2-id-2778740814/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6988113,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Vermelho, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 201.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-rio-jordao-goiania-201m2-id-2748623562/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.8373019,
+      "longitude": -49.2822024
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua BH1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-belo-horizonte-goiania-300m2-id-2778293342/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -18.2778594,
+      "longitude": -46.6227138
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Campos Elísios, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 95000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-santa-fe-goiania-300m2-id-2788130316/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.8072351,
+      "longitude": -49.3143457
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Porto Alegre, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-petropolis-goiania-270m2-id-2778450423/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6586066,
+      "longitude": -49.3016998
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Morada do Sol, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 225.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-morada-do-sol-goiania-225m2-id-2778295121/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6276268,
+      "longitude": -49.3274459
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV9, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-forteville-goiania-200m2-id-2757679043/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -14.4095261,
+      "longitude": -51.31668
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 134856.0,
+    "area_m2": 240.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-san-marino-goiania-240m2-id-2794462058/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.735957,
+      "longitude": -49.2865099
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 06, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-portal-do-oriente-goiania-270m2-id-2807979521/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -14.4095261,
+      "longitude": -51.31668
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Othon Galdino, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 115000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-garcas-goiania-300m2-id-2780131331/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6427853,
+      "longitude": -49.3865986
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Antônio Barbosa, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-esgoto-residencial-alice-barbosa-goiania-270m2-id-2802082540/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5896419,
+      "longitude": -49.2419103
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua N 17, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-das-nacoes-extensao-goiania-300m2-id-2788384928/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.685711,
+      "longitude": -49.377299
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Lisboa, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110400.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-europa-goiania-200m2-id-2769497420/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -22.1020247,
+      "longitude": -49.0332851
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Edilberto Nascimento, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 99000.0,
+    "area_m2": 203.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-beatriz-nascimento-goiania-203m2-id-2781419233/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7308943,
+      "longitude": -49.359203
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Alpes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 282.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-petropolis-goiania-282m2-id-2762929043/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7005034,
+      "longitude": -49.228766
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio São Francisco, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 75000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-200m2-id-2725000942/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6614847,
+      "longitude": -49.2805518
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Paulo Rodrigues, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-buena-vista-iii-goiania-250m2-id-2788690284/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6559181,
+      "longitude": -49.2901481
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Parati, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-campos-dourados-goiania-300m2-id-2739660902/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6677053,
+      "longitude": -49.2584427
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Maria Carolina, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fidelis-goiania-200m2-id-2740224438/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Quente, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 232.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-232m2-id-2795373219/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -17.266375,
+      "longitude": -48.9729543
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Santa Catarina, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 379.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-vila-jardim-sao-judas-tadeu-goiania-379m2-id-2802083073/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6175633,
+      "longitude": -49.2072049
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua F2, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fidelis-goiania-200m2-id-2781821019/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6294645,
+      "longitude": -49.3059662
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua José Hermano, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-campinas-goiania-1000m2-id-2808733129/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6975838,
+      "longitude": -49.2752094
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 25, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-do-bosque-goiania-300m2-id-2782645258/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5983044,
+      "longitude": -49.3026298
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 52 A, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-do-bosque-goiania-300m2-id-2726228734/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6813363,
+      "longitude": -49.2724713
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Olinda, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 148000.0,
+    "area_m2": 573.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-cozinha-parque-joao-braz-cidade-industrial-goiania-573m2-id-2698133589/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -18.1336963,
+      "longitude": -46.7932539
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 09, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 139000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-academia-residencial-portal-do-oriente-goiania-360m2-id-2639709090/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6918532,
+      "longitude": -49.3086221
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Graça Aranha, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 211.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-fazenda-dourados-residencial-atibaia-goiania-211m2-id-2786581118/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7272543,
+      "longitude": -49.3047184
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua das Orquídeas, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 492.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-botanico-goiania-492m2-id-2763751725/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7382467,
+      "longitude": -49.3673868
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Ary José Cascão, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 109000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-200m2-id-2788089638/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6754188,
+      "longitude": -49.2343647
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Paris, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 289.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-santa-fe-goiania-289m2-id-2796102859/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -17.4953224,
+      "longitude": -49.228766
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 22 de Abril, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 149900.0,
+    "area_m2": 210.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-parque-flamboyant-goiania-210m2-id-2775109744/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6918532,
+      "longitude": -49.2752094
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 52, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 148000.0,
+    "area_m2": 324.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-condominio-das-esmeraldas-goiania-324m2-id-2739450614/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7058306,
+      "longitude": -49.2404055
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SV 17, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-energia-eletrica-residencial-solar-ville-goiania-200m2-id-2803403862/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6313085,
+      "longitude": -49.3610871
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SN 1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 225.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-noroeste-goiania-225m2-id-2748779001/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.63651,
+      "longitude": -49.3004526
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Wilian da Silva Guimarâes, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-london-park-goiania-300m2-id-2643705447/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6957554,
+      "longitude": -49.2730127
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Capivarí, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-fonte-das-aguas-goiania-200m2-id-2672701993/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.80502,
+      "longitude": -49.242514
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 12, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1000.0,
+    "area_m2": 276.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-itaipu-goiania-276m2-id-2733633151/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7859643,
+      "longitude": -49.3675081
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Laura Rocha, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 92500.0,
+    "area_m2": 200.0,
+    "quartos": "1",
+    "banheiros": "1",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-1-quarto-jardim-sao-jose-goiania-200m2-id-2670476604/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7005034,
+      "longitude": -49.228766
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RDG 5, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 115000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-garcas-goiania-300m2-id-2761396269/?source=ranking%2Crp",
+    "geolocalizacao": null,
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 45, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 454.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-energia-eletrica-condominio-das-esmeraldas-goiania-454m2-id-2774968429/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.63651,
+      "longitude": -49.3004526
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua do Acre, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 400.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-balneario-meia-ponte-goiania-400m2-id-2700351492/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.712783,
+      "longitude": -49.2805518
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Branco, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-petropolis-goiania-360m2-id-2492292380/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6580945,
+      "longitude": -49.2805518
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV2, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-forteville-goiania-200m2-id-2797763716/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.713589,
+      "longitude": -49.2732977
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua JCA35, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-caravelas-1-etapa-goiania-360m2-id-2598085764/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6988113,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FN 29, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 70000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-fonte-nova-goiania-200m2-id-2787450856/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6273473,
+      "longitude": -49.3136957
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua LSM12, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 122590.0,
+    "area_m2": 240.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-san-marino-goiania-240m2-id-2655362263/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6849358,
+      "longitude": -49.3707547
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 10, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 210.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-setor-estrela-dalva-goiania-210m2-id-2741614675/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -19.9590941,
+      "longitude": -43.4139769
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Progresso, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-jardim-canedo-ii-senador-canedo-250m2-id-2629085601/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6312533,
+      "longitude": -49.2352364
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Granada, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 303.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-condominio-amin-camargo-goiania-303m2-id-2705839646/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": 14.1576412,
+      "longitude": -120.446087
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Ademar Vicente Ferreira, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 70000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-della-penna-goiania-300m2-id-2750922497/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7035877,
+      "longitude": -49.3338768
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 230.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-condominio-das-esmeraldas-goiania-230m2-id-2649070602/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.735957,
+      "longitude": -49.2865099
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida SE, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 250.0,
+    "quartos": "1",
+    "banheiros": "1",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-1-quarto-residencial-vale-dos-sonhos-i-goiania-250m2-id-2657372125/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7106663,
+      "longitude": -49.3029955
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua João XXIII, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 348.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-santa-fe-goiania-348m2-id-2743886392/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6988113,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 8, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 21772.0,
+    "area_m2": 365.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-energia-eletrica-residencial-recanto-do-bosque-goiania-365m2-id-2755323302/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 29, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-com-area-de-lazer-residencial-itaipu-goiania-300m2-id-2799296918/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7881879,
+      "longitude": -49.3718993
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua MP15, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 142082.0,
+    "area_m2": 201.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-monte-pascoal-ii-goiania-201m2-id-2723467166/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6852237,
+      "longitude": -49.1815495
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Araguari, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 361.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-ipanema-goiania-361m2-id-2787716243/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.8379753,
+      "longitude": -49.3884819
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Buriti, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 505.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-botanico-goiania-505m2-id-2763606213/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7597634,
+      "longitude": -49.313254
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua EF3, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-jardim-eli-forte-goiania-200m2-id-2677226600/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Apolo Lykeios, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 110855.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-acropole-ii-goiania-200m2-id-2549575154/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7403362,
+      "longitude": -49.3572613
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua JC 313, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 216.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-jardins-do-cerrado-10-goiania-216m2-id-2785445913/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6808025,
+      "longitude": -49.4387432
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 37, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 335.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-condominio-das-esmeraldas-goiania-335m2-id-2687027061/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6507943,
+      "longitude": -49.2529434
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ema2, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1225.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-emas-goiania-200m2-id-2807875726/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7003944,
+      "longitude": -49.2789329
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PI 04, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 40000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-parque-imperial-goiania-270m2-id-2802317933/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua HM 11, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-hugo-de-moraes-goiania-360m2-id-2774155219/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6507943,
+      "longitude": -49.2529434
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Amim Camargo, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 432.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-condominio-amin-camargo-goiania-432m2-id-2753472406/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.69202,
+      "longitude": -49.3209553
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Zuleica Costa Rodrigues, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 70000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-buena-vista-iii-goiania-300m2-id-2750775339/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7293477,
+      "longitude": -49.3964782
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rodovia GO-060, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1350.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-chacaras-maringa-goiania-1000m2-id-2799435017/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7012254,
+      "longitude": -49.2614351
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ema1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 1225.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-recanto-das-emas-goiania-200m2-id-2541456878/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7147279,
+      "longitude": -49.2694662
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Valdir Camarcio, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 71250.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-frei-galvao-goiania-10m2-id-2706705101/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6811466,
+      "longitude": -49.2772045
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RSB 1, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 65000.0,
+    "area_m2": 231.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-sao-bernardo-goiania-231m2-id-2558208150/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6757547,
+      "longitude": -49.2364809
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 04, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-portal-do-oriente-goiania-360m2-id-2674011478/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7307978,
+      "longitude": -49.279308
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RV 2, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 115246.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-rio-verde-goiania-200m2-id-2713729196/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7180764,
+      "longitude": -49.3604504
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida das Américas, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-jardins-do-cerrado-4-goiania-10m2-id-2730460876/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7614555,
+      "longitude": -49.3311742
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Campos Elísios, Lote/Terreno para comprar em, Goiânia, Brasil",
+    "preco": 85000.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/venda-terreno-lote-condominio-residencial-santa-fe-goiania-10m2-id-2783087127/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.8072351,
+      "longitude": -49.3143457
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida César Lattes, Lote/Terreno para comprar emSetor Novo Horizonte, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-novo-horizonte-goiania-1000m2-venda-RS150000-id-2808563529/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6862074,
+      "longitude": -49.2931927
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 48, Lote/Terreno para comprar emCondomínio das Esmeraldas, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-das-esmeraldas-goiania-270m2-venda-RS130000-id-2808933631/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7869882,
+      "longitude": -49.3570669
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida César Lattes, Lote/Terreno para comprar emSetor Novo Horizonte, Goiânia, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-novo-horizonte-goiania-1000m2-venda-RS1599-id-2808572114/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6862074,
+      "longitude": -49.2931927
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 06, Lote/Terreno para comprar emResidencial Portal do Oriente, Goiânia, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portal-do-oriente-goiania-270m2-venda-RS90000-id-2715678838/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7617737,
+      "longitude": -49.3714035
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RT 6, Lote/Terreno para comprar emResidencial Talismã I, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-talisma-i-goiania-270m2-venda-RS140000-id-2808934321/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6934147,
+      "longitude": -49.3076164
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Vera Cruz, Lote/Terreno para comprar emJardim Guanabara, Goiânia, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-guanabara-goiania-1000m2-venda-RS1599-id-2808560116/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6579083,
+      "longitude": -49.2255088
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 06, Lote/Terreno para comprar emResidencial Portal do Oriente, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portal-do-oriente-goiania-270m2-venda-RS120000-id-2807979521/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7617737,
+      "longitude": -49.3714035
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Central, Lote/Terreno para comprar emJardim Nova Esperança, Goiânia, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-nova-esperanca-goiania-1000m2-venda-RS1599-id-2808586117/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6421188,
+      "longitude": -49.3278336
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RD 6, Lote/Terreno para comprar emResidencial Dezopi, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-dezopi-goiania-300m2-venda-RS130000-id-2803573922/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6585359,
+      "longitude": -49.3683787
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Bernardo Sayão, Lote/Terreno para comprar emSetor Centro Oeste, Goiânia, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-centro-oeste-goiania-1000m2-venda-RS1599-id-2808549449/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6627241,
+      "longitude": -49.2779852
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Central, Lote/Terreno para comprar emJardim Nova Esperança, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-nova-esperanca-goiania-1000m2-venda-RS150000-id-2808779431/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6421188,
+      "longitude": -49.3278336
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua do Prado, Lote/Terreno para comprar emSetor Barra da Tijuca, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 384.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-barra-da-tijuca-goiania-384m2-venda-RS130000-id-2773920438/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6570783,
+      "longitude": -49.3589826
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Ipês, Lote/Terreno para comprar emVillage Maringá, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 460.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-village-maringa-goiania-460m2-venda-RS150000-id-2794322519/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.679892,
+      "longitude": -49.2690779
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 06, Lote/Terreno para comprar emResidencial Portal do Oriente, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 350.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portal-do-oriente-goiania-350m2-venda-RS110000-id-2688821215/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7617737,
+      "longitude": -49.3714035
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Vera Cruz, Lote/Terreno para comprar emJardim Guanabara, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-guanabara-goiania-1000m2-venda-RS150000-id-2807367753/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6579083,
+      "longitude": -49.2255088
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Alpes, Lote/Terreno para comprar emJardim Petrópolis, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 283.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-petropolis-goiania-283m2-venda-RS120000-id-2808028891/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6604386,
+      "longitude": -49.346059
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Granada, Lote/Terreno para comprar emCondomínio Amin Camargo, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 303.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-amin-camargo-goiania-303m2-venda-RS100000-id-2807663244/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7681012,
+      "longitude": -49.3636146
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua José Hermano, Lote/Terreno para comprar emSetor Campinas, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-campinas-goiania-1000m2-venda-RS150000-id-2808733129/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.660884,
+      "longitude": -49.2927256
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Vera Cruz, Lote/Terreno para comprar emJardim Guanabara, Goiânia, Goiânia, Brasil",
+    "preco": 1599.0,
+    "area_m2": 50000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-guanabara-goiania-50000m2-venda-RS1599-id-2808433560/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6579083,
+      "longitude": -49.2255088
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Marquês de Paranágua, Lote/Terreno para comprar emSítios de Recreio Mansões do Campus, Goiânia, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-sitios-de-recreio-mansoes-do-campus-goiania-250m2-venda-RS145000-id-2788799515/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5755522,
+      "longitude": -49.2951878
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Vermelho, Lote/Terreno para comprar emResidencial Rio Jordão, Goiânia, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 201.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-rio-jordao-goiania-201m2-venda-RS149000-id-2748623562/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6421565,
+      "longitude": -49.1817215
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua BM15, Lote/Terreno para comprar emResidencial Brisas da Mata, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-brisas-da-mata-goiania-300m2-venda-RS110000-id-2807484128/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.663597,
+      "longitude": -49.2463386
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Bernardo Sayão, Lote/Terreno para comprar emSetor Centro Oeste, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-centro-oeste-goiania-1000m2-venda-RS150000-id-2807395332/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6627241,
+      "longitude": -49.2779852
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Soneca, Lote/Terreno para comprar emJardim Ipanema, Goiânia, Goiânia, Brasil",
+    "preco": 105000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-ipanema-goiania-360m2-venda-RS105000-id-2778206323/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7640356,
+      "longitude": -49.3609289
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FN 28, Lote/Terreno para comprar emJardim Fonte Nova, Goiânia, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-fonte-nova-goiania-200m2-venda-RS90000-id-2778699367/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.624959,
+      "longitude": -49.3136214
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Porto 5, Lote/Terreno para comprar emResidencial Português, Goiânia, Goiânia, Brasil",
+    "preco": 121000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portugues-goiania-200m2-venda-RS121000-id-2804561515/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6458004,
+      "longitude": -49.1519515
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Valdir Camárcio, Lote/Terreno para comprar emResidencial Frei Galvão, Goiânia, Goiânia, Brasil",
+    "preco": 122962.0,
+    "area_m2": 225.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-frei-galvao-goiania-225m2-venda-RS122962-id-2760004994/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5927578,
+      "longitude": -49.2040233
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua CP11, Lote/Terreno para comprar emConjunto Primavera, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 449.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-conjunto-primavera-goiania-449m2-venda-RS140000-id-2807979029/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5884446,
+      "longitude": -49.3719135
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RBN 11, Lote/Terreno para comprar emCarolina Parque Complemento, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 232.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-carolina-parque-complemento-goiania-232m2-venda-RS135000-id-2771464970/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6938594,
+      "longitude": -49.3709917
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua CP36, Lote/Terreno para comprar emCarolina Parque Extensão, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-carolina-parque-extensao-goiania-200m2-venda-RS120000-id-2789363663/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6938594,
+      "longitude": -49.3709917
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua NS 01, Lote/Terreno para comprar emResidencial Nossa Senhora Auxiliadora, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-nossa-senhora-auxiliadora-goiania-200m2-venda-RS135000-id-2771192122/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7022382,
+      "longitude": -49.416105
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua LPK1, Lote/Terreno para comprar emResidencial London Park, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-london-park-goiania-300m2-venda-RS100000-id-2793641942/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6484304,
+      "longitude": -49.357926
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SN 1, Lote/Terreno para comprar emSetor Noroeste, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 225.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-noroeste-goiania-225m2-venda-RS140000-id-2748779001/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6256175,
+      "longitude": -49.3329399
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Porto 1, Lote/Terreno para comprar emResidencial Português, Goiânia, Goiânia, Brasil",
+    "preco": 130862.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portugues-goiania-200m2-venda-RS130862-id-2730671411/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6458004,
+      "longitude": -49.1519515
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV9, Lote/Terreno para comprar emResidencial Forteville, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-forteville-goiania-200m2-venda-RS110000-id-2757679043/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7512086,
+      "longitude": -49.3712738
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua LP5, Lote/Terreno para comprar emResidencial Lucy Pinheiro, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-lucy-pinheiro-goiania-300m2-venda-RS140000-id-2724153642/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.653862,
+      "longitude": -49.1746518
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 45, Lote/Terreno para comprar emCondomínio das Esmeraldas, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 391.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-das-esmeraldas-goiania-391m2-venda-RS135000-id-2774967136/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7845428,
+      "longitude": -49.35538
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua João XXIII, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 80000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-300m2-venda-RS80000-id-2778740814/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7459677,
+      "longitude": -49.3817852
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Campos Elísios, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 95000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-300m2-venda-RS95000-id-2788130316/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7765384,
+      "longitude": -49.3500895
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SV 4, Lote/Terreno para comprar emResidencial Solar Ville, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 268.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-solar-ville-goiania-268m2-venda-RS100000-id-2781699571/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6313085,
+      "longitude": -49.3610871
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua MT1, Lote/Terreno para comprar emResidencial Montes Claros, Goiânia, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 180.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-montes-claros-goiania-180m2-venda-RS125000-id-2775601422/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6351712,
+      "longitude": -49.1833403
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua BH1, Lote/Terreno para comprar emResidencial Belo Horizonte, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-belo-horizonte-goiania-300m2-venda-RS150000-id-2778293342/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6407471,
+      "longitude": -49.1849641
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Vó Leopoldina, Lote/Terreno para comprar emJardim das Rosas, Goiânia, Goiânia, Brasil",
+    "preco": 105000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-das-rosas-goiania-200m2-venda-RS105000-id-2778206458/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7127224,
+      "longitude": -49.3501311
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua R.O.-01, Lote/Terreno para comprar emReserva do Oriente, Goiânia, Goiânia, Brasil",
+    "preco": 9600.0,
+    "area_m2": 392.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-reserva-do-oriente-goiania-392m2-venda-RS9600-id-2807871795/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7032841,
+      "longitude": -49.2701056
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua da Vitória, Lote/Terreno para comprar emResidencial Santa Fé I, Goiânia, Goiânia, Brasil",
+    "preco": 75000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-i-goiania-250m2-venda-RS75000-id-2807611337/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7503384,
+      "longitude": -49.379246
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Dona Luzia, Lote/Terreno para comprar emCondomínio Amin Camargo, Goiânia, Goiânia, Brasil",
+    "preco": 65000.0,
+    "area_m2": 420.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-amin-camargo-goiania-420m2-venda-RS65000-id-2616330672/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7681012,
+      "longitude": -49.3653507
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua F4, Lote/Terreno para comprar emResidencial Fidelis, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fidelis-goiania-200m2-venda-RS110000-id-2757679532/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7441505,
+      "longitude": -49.3676331
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Othon Galdino, Lote/Terreno para comprar emResidencial Recanto das Garças, Goiânia, Goiânia, Brasil",
+    "preco": 115000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-das-garcas-goiania-300m2-venda-RS115000-id-2780131331/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6892148,
+      "longitude": -49.3774767
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV2, Lote/Terreno para comprar emResidencial Forteville, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-forteville-goiania-200m2-venda-RS130000-id-2797763716/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7512086,
+      "longitude": -49.3712738
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emResidencial Monte Pascoal, Goiânia, Goiânia, Brasil",
+    "preco": 85000.0,
+    "area_m2": 264.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-monte-pascoal-goiania-264m2-venda-RS85000-id-2692309469/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6885971,
+      "longitude": -49.3967886
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Capivarí, Lote/Terreno para comprar emResidencial Fonte das Águas, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fonte-das-aguas-goiania-200m2-venda-RS110000-id-2672701993/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5995538,
+      "longitude": -49.3742581
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SV 1, Lote/Terreno para comprar emResidencial Solar Ville, Goiânia, Goiânia, Brasil",
+    "preco": 75000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-solar-ville-goiania-200m2-venda-RS75000-id-2750304056/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6313085,
+      "longitude": -49.3610871
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Juca Rodrigues, Lote/Terreno para comprar emResidencial Buena Vista I, Goiânia, Goiânia, Brasil",
+    "preco": 75000.0,
+    "area_m2": 306.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-buena-vista-i-goiania-306m2-venda-RS75000-id-2806692615/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7282105,
+      "longitude": -49.3985861
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua I3, Lote/Terreno para comprar emJardim Ipanema, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 308.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-ipanema-goiania-308m2-venda-RS110000-id-2737177452/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7640356,
+      "longitude": -49.3609289
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua G10, Lote/Terreno para comprar emSetor Grajaú, Goiânia, Goiânia, Brasil",
+    "preco": 109998.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-grajau-goiania-com-garagem-300m2-venda-RS109998-id-2780739130/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7607563,
+      "longitude": -49.3635057
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emResidencial San Marino, Goiânia, Goiânia, Brasil",
+    "preco": 134856.0,
+    "area_m2": 240.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-san-marino-goiania-240m2-venda-RS134856-id-2794462058/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -19.9304061,
+      "longitude": -47.631407
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 12, Lote/Terreno para comprar emVila Bandeirantes, Goiânia, Goiânia, Brasil",
+    "preco": 89000.0,
+    "area_m2": 269.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-vila-bandeirantes-goiania-269m2-venda-RS89000-id-2807592099/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6725343,
+      "longitude": -49.2274387
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 04, Lote/Terreno para comprar emResidencial Portal do Oriente, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portal-do-oriente-goiania-360m2-venda-RS140000-id-2674011478/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7144955,
+      "longitude": -49.2651318
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua G16, Lote/Terreno para comprar emSetor Grajaú, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-grajau-goiania-300m2-venda-RS150000-id-2806101979/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7607563,
+      "longitude": -49.3635057
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Parati, Lote/Terreno para comprar emResidencial Campos Dourados, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-campos-dourados-goiania-300m2-venda-RS100000-id-2739660902/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7999517,
+      "longitude": -49.3655605
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua SV 1, Lote/Terreno para comprar emResidencial Solar Ville, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 247.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-solar-ville-goiania-247m2-venda-RS100000-id-2788798422/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6313085,
+      "longitude": -49.3610871
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Campos Elísios, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 95000.0,
+    "area_m2": 347.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-347m2-venda-RS95000-id-2681210401/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7765384,
+      "longitude": -49.3500895
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Graça Aranha, Lote/Terreno para comprar emFazenda Dourados - Residencial Atibaia, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 211.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-fazenda-dourados-residencial-atibaia-goiania-211m2-venda-RS120000-id-2786581118/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7694588,
+      "longitude": -49.3668904
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Frei Galvão, Lote/Terreno para comprar emResidencial Frei Galvão, Goiânia, Goiânia, Brasil",
+    "preco": 122034.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-frei-galvao-goiania-250m2-venda-RS122034-id-2774975716/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6515762,
+      "longitude": -49.2304179
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Ary José Cascão, Lote/Terreno para comprar emResidencial Fonte das Águas, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fonte-das-aguas-goiania-200m2-venda-RS120000-id-2798398023/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5971523,
+      "longitude": -49.3807296
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio São Francisco, Lote/Terreno para comprar emResidencial Fonte das Águas, Goiânia, Goiânia, Brasil",
+    "preco": 75000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fonte-das-aguas-goiania-200m2-venda-RS75000-id-2725000942/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5946802,
+      "longitude": -49.3789846
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua MP15, Lote/Terreno para comprar emResidencial Monte Pascoal II, Goiânia, Goiânia, Brasil",
+    "preco": 142082.0,
+    "area_m2": 201.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-monte-pascoal-ii-goiania-201m2-venda-RS142082-id-2723467166/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6885971,
+      "longitude": -49.3967886
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 29, Lote/Terreno para comprar emResidencial Itaipu, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-itaipu-goiania-300m2-venda-RS130000-id-2799296918/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7859643,
+      "longitude": -49.3675081
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Lela, Lote/Terreno para comprar emResidencial Mundo Novo 2, Goiânia, Goiânia, Brasil",
+    "preco": 122000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-mundo-novo-2-goiania-200m2-venda-RS122000-id-2750328061/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6600216,
+      "longitude": -49.4193074
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua F8, Lote/Terreno para comprar emResidencial Fidelis, Goiânia, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 287.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fidelis-goiania-287m2-venda-RS145000-id-2740223742/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7441722,
+      "longitude": -49.3676331
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Luíza M. Coimbra Bueno, Lote/Terreno para comprar emResidencial Jardins do Cerrado 3, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 498.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-jardins-do-cerrado-3-goiania-498m2-venda-RS130000-id-2673180991/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6712811,
+      "longitude": -49.4318255
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 29, Lote/Terreno para comprar emResidencial Itaipu, Goiânia, Goiânia, Brasil",
+    "preco": 109990.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-itaipu-goiania-360m2-venda-RS109990-id-2779925465/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7859643,
+      "longitude": -49.3675081
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ipatinga, Lote/Terreno para comprar emResidencial Buena Vista IV, Goiânia, Goiânia, Brasil",
+    "preco": 85000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-buena-vista-iv-goiania-300m2-venda-RS85000-id-2801589216/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7178251,
+      "longitude": -49.3967229
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua do Clube, Lote/Terreno para comprar emVila Mutirão I, Goiânia, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-vila-mutirao-i-goiania-360m2-venda-RS149000-id-2804482140/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6186456,
+      "longitude": -49.3554036
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emParque Santa Rita, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-1-quartos-parque-santa-rita-goiania-200m2-venda-RS120000-id-2753686410/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6767892,
+      "longitude": -49.3276233
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua JCA35, Lote/Terreno para comprar emJardim Caravelas 1ª Etapa, Goiânia, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-caravelas-1-etapa-goiania-360m2-venda-RS125000-id-2598085764/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7508534,
+      "longitude": -49.3531859
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 29, Lote/Terreno para comprar emCondomínio das Esmeraldas, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 355.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-das-esmeraldas-goiania-355m2-venda-RS120000-id-2726880855/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7845428,
+      "longitude": -49.35538
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RP 5, Lote/Terreno para comprar emResidencial Recreio Panorama, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recreio-panorama-goiania-300m2-venda-RS150000-id-2804562036/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6287009,
+      "longitude": -49.3071229
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 8, Lote/Terreno para comprar emResidencial Recanto do Bosque, Goiânia, Goiânia, Brasil",
+    "preco": 21772.0,
+    "area_m2": 365.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-do-bosque-goiania-365m2-venda-RS21772-id-2755323302/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6033541,
+      "longitude": -49.2887068
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RP1, Lote/Terreno para comprar emResidencial Paraíso, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-paraiso-goiania-200m2-venda-RS140000-id-2798397142/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5850544,
+      "longitude": -49.2618175
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Onério Martins Vieira, Lote/Terreno para comprar emResidencial Recanto das Garças, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-das-garcas-goiania-360m2-venda-RS120000-id-2581042792/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6892148,
+      "longitude": -49.3774767
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Paris, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 289.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-289m2-venda-RS110000-id-2796102859/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7503384,
+      "longitude": -49.3436644
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FP34, Lote/Terreno para comprar emRecreio do Funcionário Público, Goiânia, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-recreio-do-funcionario-publico-goiania-360m2-venda-RS149000-id-2754904530/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.711936,
+      "longitude": -49.3405653
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PR 09, Lote/Terreno para comprar emResidencial Portal do Oriente, Goiânia, Goiânia, Brasil",
+    "preco": 139000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portal-do-oriente-goiania-360m2-venda-RS139000-id-2639709090/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7032841,
+      "longitude": -49.2744673
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Valdir Camarcio, Lote/Terreno para comprar emResidencial Frei Galvão, Goiânia, Goiânia, Brasil",
+    "preco": 71250.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-frei-galvao-goiania-10m2-venda-RS71250-id-2706705101/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5927578,
+      "longitude": -49.2040233
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua NM 2, Lote/Terreno para comprar emResidencial Dom Rafael, Goiânia, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 303.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-dom-rafael-goiania-303m2-venda-RS145000-id-2763610759/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6845717,
+      "longitude": -49.2394052
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Maria Carolina, Lote/Terreno para comprar emResidencial Fidelis, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fidelis-goiania-200m2-venda-RS100000-id-2740224438/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7441505,
+      "longitude": -49.3676331
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Buriti, Lote/Terreno para comprar emJardim Botânico, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 505.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-botanico-goiania-505m2-venda-RS150000-id-2763606213/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6821019,
+      "longitude": -49.2615597
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua das Orquídeas, Lote/Terreno para comprar emJardim Botânico, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 492.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-botanico-goiania-492m2-venda-RS150000-id-2763751725/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7212542,
+      "longitude": -49.3802586
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Antônio Fidelis, Lote/Terreno para comprar emResidencial Fidelis, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fidelis-goiania-200m2-venda-RS100000-id-2740224140/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7135324,
+      "longitude": -49.312569
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua F2, Lote/Terreno para comprar emResidencial Fidelis, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fidelis-goiania-200m2-venda-RS135000-id-2781821019/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7441722,
+      "longitude": -49.3676331
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emResidencial Acrópole II, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-acropole-ii-goiania-200m2-venda-RS110000-id-2720994972/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5636741,
+      "longitude": -49.1400989
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda das Imbaúbas, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-300m2-venda-RS90000-id-2647789193/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6924479,
+      "longitude": -49.2888013
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 11, Lote/Terreno para comprar emResidencial Itaipu, Goiânia, Goiânia, Brasil",
+    "preco": 85000.0,
+    "area_m2": 301.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-itaipu-goiania-301m2-venda-RS85000-id-2802344726/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7859643,
+      "longitude": -49.3675081
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emResidencial Português, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-portugues-goiania-300m2-venda-RS100000-id-2474776269/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7003944,
+      "longitude": -49.2816026
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua MT8, Lote/Terreno para comprar emResidencial Montes Claros, Goiânia, Goiânia, Brasil",
+    "preco": 106347.0,
+    "area_m2": 180.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-montes-claros-goiania-180m2-venda-RS106347-id-2626120700/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6351712,
+      "longitude": -49.1833403
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rodovia GO-060, Lote/Terreno para comprar emChácaras Maringá, Goiânia, Goiânia, Brasil",
+    "preco": 1350.0,
+    "area_m2": 1000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-chacaras-maringa-goiania-1000m2-venda-RS1350-id-2799435017/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6944603,
+      "longitude": -49.2552291
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua HM3, Lote/Terreno para comprar emResidencial Hugo de Moraes, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 318.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-hugo-de-moraes-goiania-318m2-venda-RS150000-id-2802219732/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6347556,
+      "longitude": -49.2920057
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida SE, Lote/Terreno para comprar emResidencial Vale dos Sonhos I, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-1-quartos-residencial-vale-dos-sonhos-i-goiania-250m2-venda-RS120000-id-2657372125/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5167357,
+      "longitude": -49.2200507
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Preto, Lote/Terreno para comprar emResidencial Fonte das Águas, Goiânia, Goiânia, Brasil",
+    "preco": 119000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fonte-das-aguas-goiania-360m2-venda-RS119000-id-2536726575/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5988418,
+      "longitude": -49.3789846
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Morada do Sol, Lote/Terreno para comprar emSetor Morada do Sol, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 225.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-morada-do-sol-goiania-225m2-venda-RS150000-id-2778295121/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6186329,
+      "longitude": -49.3222629
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RMP 22, Lote/Terreno para comprar emResidencial Monte Pascoal, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-monte-pascoal-goiania-300m2-venda-RS140000-id-2807136143/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6910528,
+      "longitude": -49.4033981
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio São Francisco, Lote/Terreno para comprar emLoteamento Água Azul, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 201.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-loteamento-agua-azul-goiania-201m2-venda-RS100000-id-2800370158/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6368018,
+      "longitude": -49.3572512
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV 36, Lote/Terreno para comprar emResidencial Fidelis, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fidelis-goiania-200m2-venda-RS120000-id-2745130400/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7107405,
+      "longitude": -49.3124601
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua das Camélias, Lote/Terreno para comprar emJardim Botânico, Goiânia, Goiânia, Brasil",
+    "preco": 138000.0,
+    "area_m2": 420.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-botanico-goiania-420m2-venda-RS138000-id-2741862170/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7253029,
+      "longitude": -49.2537648
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Monsenhor Primo Vieira, Lote/Terreno para comprar emJardim São José, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-sao-jose-goiania-300m2-venda-RS130000-id-2728711022/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7057633,
+      "longitude": -49.3323398
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Fonte das Águas, Lote/Terreno para comprar emResidencial Fonte das Águas, Goiânia, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 200000.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fonte-das-aguas-goiania-200000m2-venda-RS90000-id-2689598654/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5958742,
+      "longitude": -49.3807296
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua EF3, Lote/Terreno para comprar emJardim Eli Forte, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-eli-forte-goiania-200m2-venda-RS110000-id-2677226600/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7326235,
+      "longitude": -49.3571447
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Santa Catarina, Lote/Terreno para comprar emVila Jardim São Judas Tadeu, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 379.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-vila-jardim-sao-judas-tadeu-goiania-379m2-venda-RS140000-id-2802083073/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6181092,
+      "longitude": -49.2475343
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua João XXIII, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 90000.0,
+    "area_m2": 348.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-348m2-venda-RS90000-id-2743886392/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7459677,
+      "longitude": -49.3817852
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Progresso, Lote/Terreno para comprar emResidencial Jardim Canedo II, Senador Canedo, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-jardim-canedo-ii-senador-canedo-250m2-venda-RS125000-id-2629085601/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7411455,
+      "longitude": -49.126936
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emResidencial Solar Ville, Goiânia, Goiânia, Brasil",
+    "preco": 92000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-solar-ville-goiania-200m2-venda-RS92000-id-2776750229/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6879022,
+      "longitude": -49.3063044
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Clotário de Freitas, Lote/Terreno para comprar emJardim São José, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 304.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-sao-jose-goiania-304m2-venda-RS100000-id-2786809115/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7031678,
+      "longitude": -49.404327
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 52 A, Lote/Terreno para comprar emResidencial Recanto do Bosque, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-do-bosque-goiania-300m2-venda-RS150000-id-2726228734/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6025443,
+      "longitude": -49.3093909
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Alpes, Lote/Terreno para comprar emJardim Petrópolis, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 282.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-petropolis-goiania-282m2-venda-RS130000-id-2762929043/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6604386,
+      "longitude": -49.346059
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Adeli Guirandelli, Lote/Terreno para comprar emSetor Orientville, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-orientville-goiania-360m2-venda-RS135000-id-2805159276/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6958047,
+      "longitude": -49.2880652
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 22 de Abril, Lote/Terreno para comprar emParque Flamboyant, Goiânia, Goiânia, Brasil",
+    "preco": 149900.0,
+    "area_m2": 210.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-parque-flamboyant-goiania-210m2-venda-RS149900-id-2775109744/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7240806,
+      "longitude": -49.2284894
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Rio Branco, Lote/Terreno para comprar emResidencial Petrópolis, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-petropolis-goiania-360m2-venda-RS150000-id-2492292380/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6893721,
+      "longitude": -49.2965638
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Andrômeda, Lote/Terreno para comprar emJardim Petrópolis, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-petropolis-goiania-360m2-venda-RS135000-id-2793617414/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6645356,
+      "longitude": -49.3391066
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Edilberto Nascimento, Lote/Terreno para comprar emResidencial Beatriz Nascimento, Goiânia, Goiânia, Brasil",
+    "preco": 99000.0,
+    "area_m2": 203.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-beatriz-nascimento-goiania-203m2-venda-RS99000-id-2781419233/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6975253,
+      "longitude": -49.378023
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Lisboa, Lote/Terreno para comprar emJardim Europa, Goiânia, Goiânia, Brasil",
+    "preco": 110400.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-europa-goiania-200m2-venda-RS110400-id-2769497420/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7068267,
+      "longitude": -49.2833641
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Sumarés, Lote/Terreno para comprar emJardim Botânico, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 505.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-botanico-goiania-505m2-venda-RS150000-id-2778206615/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7253029,
+      "longitude": -49.2537648
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ema2, Lote/Terreno para comprar emResidencial Recanto das Emas, Goiânia, Goiânia, Brasil",
+    "preco": 1225.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-das-emas-goiania-200m2-venda-RS1225-id-2805361222/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7382467,
+      "longitude": -49.3673868
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 52, Lote/Terreno para comprar emCondomínio das Esmeraldas, Goiânia, Goiânia, Brasil",
+    "preco": 148000.0,
+    "area_m2": 324.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-das-esmeraldas-goiania-324m2-venda-RS148000-id-2739450614/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7843325,
+      "longitude": -49.3632114
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emVila Santa Maria - Conjunto Caiçara, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 275.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-vila-santa-maria-conjunto-caicara-goiania-275m2-venda-RS135000-id-2617366299/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6537374,
+      "longitude": -49.2481692
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 37, Lote/Terreno para comprar emCondomínio das Esmeraldas, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 335.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-das-esmeraldas-goiania-335m2-venda-RS150000-id-2687027061/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7845428,
+      "longitude": -49.35538
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Antônio Barbosa, Lote/Terreno para comprar emResidencial Alice Barbosa, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-alice-barbosa-goiania-270m2-venda-RS140000-id-2802082540/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.594513,
+      "longitude": -49.2690469
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua JC 313, Lote/Terreno para comprar emResidencial Jardins do Cerrado 10, Goiânia, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 216.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-jardins-do-cerrado-10-goiania-216m2-venda-RS145000-id-2785445913/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6759084,
+      "longitude": -49.4348626
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Ademar Vicente Ferreira, Lote/Terreno para comprar emResidencial Della Penna, Goiânia, Goiânia, Brasil",
+    "preco": 70000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-della-penna-goiania-300m2-venda-RS70000-id-2750922497/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7168059,
+      "longitude": -49.3820524
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Inácio Ferreira de Faria, Lote/Terreno para comprar emResidencial Park Solar, Goiânia, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 365.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-park-solar-goiania-365m2-venda-RS145000-id-2804452015/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6617743,
+      "longitude": -49.3222307
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FN 29, Lote/Terreno para comprar emJardim Fonte Nova, Goiânia, Goiânia, Brasil",
+    "preco": 70000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-fonte-nova-goiania-200m2-venda-RS70000-id-2787450856/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6227144,
+      "longitude": -49.3115301
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Cabo Frio, Lote/Terreno para comprar emResidencial Campos Dourados, Goiânia, Goiânia, Brasil",
+    "preco": 145000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-campos-dourados-goiania-360m2-venda-RS145000-id-2808288653/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7999517,
+      "longitude": -49.3655605
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Floresta, Lote/Terreno para comprar emJardim Real, Goiânia, Goiânia, Brasil",
+    "preco": 116000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-real-goiania-360m2-venda-RS116000-id-2647767784/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.652049,
+      "longitude": -49.3765064
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua LSM12, Lote/Terreno para comprar emResidencial San Marino, Goiânia, Goiânia, Brasil",
+    "preco": 122590.0,
+    "area_m2": 240.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-san-marino-goiania-240m2-venda-RS122590-id-2655362263/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6851821,
+      "longitude": -49.2963415
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Paulo Rodrigues, Lote/Terreno para comprar emResidencial Buena Vista III, Goiânia, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 250.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-buena-vista-iii-goiania-250m2-venda-RS125000-id-2788690284/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7259375,
+      "longitude": -49.3994936
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua N 17, Lote/Terreno para comprar emSetor das Nações Extensão, Goiânia, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-setor-das-nacoes-extensao-goiania-300m2-venda-RS125000-id-2788384928/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6852342,
+      "longitude": -49.3826542
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Olinda, Lote/Terreno para comprar emParque João Braz - Cidade Industrial, Goiânia, Goiânia, Brasil",
+    "preco": 148000.0,
+    "area_m2": 573.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-parque-joao-braz-cidade-industrial-goiania-573m2-venda-RS148000-id-2698133589/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6847314,
+      "longitude": -49.3545109
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emResidencial Center Ville, Goiânia, Goiânia, Brasil",
+    "preco": 105000.0,
+    "area_m2": 195.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-center-ville-goiania-195m2-venda-RS105000-id-2592338365/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7201772,
+      "longitude": -49.2807087
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Porto Alegre, Lote/Terreno para comprar emJardim Petrópolis, Goiânia, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-petropolis-goiania-270m2-venda-RS149000-id-2778450423/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6544052,
+      "longitude": -49.3181782
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RB 25, Lote/Terreno para comprar emResidencial Recanto do Bosque, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-do-bosque-goiania-300m2-venda-RS130000-id-2782645258/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6025443,
+      "longitude": -49.3093909
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Wilian da Silva Guimarâes, Lote/Terreno para comprar emResidencial London Park, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-london-park-goiania-300m2-venda-RS100000-id-2643705447/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6796897,
+      "longitude": -49.3364967
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Araguari, Lote/Terreno para comprar emJardim Ipanema, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 361.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-ipanema-goiania-361m2-venda-RS150000-id-2787716243/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7640356,
+      "longitude": -49.3609289
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua 45, Lote/Terreno para comprar emCondomínio das Esmeraldas, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 454.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-das-esmeraldas-goiania-454m2-venda-RS150000-id-2774968429/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7845428,
+      "longitude": -49.35538
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV25, Lote/Terreno para comprar emResidencial Forteville Extensão, Goiânia, Goiânia, Brasil",
+    "preco": 105000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-forteville-extensao-goiania-200m2-venda-RS105000-id-2778893615/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7469939,
+      "longitude": -49.3724434
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Ary José Cascão, Lote/Terreno para comprar emResidencial Fonte das Águas, Goiânia, Goiânia, Brasil",
+    "preco": 109000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-fonte-das-aguas-goiania-200m2-venda-RS109000-id-2788089638/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5988418,
+      "longitude": -49.3789846
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua do Acre, Lote/Terreno para comprar emJardim Balneário Meia Ponte, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 400.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-balneario-meia-ponte-goiania-400m2-venda-RS140000-id-2700351492/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6146779,
+      "longitude": -49.2947874
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Montes Claros, Lote/Terreno para comprar emResidencial Montes Claros, Goiânia, Goiânia, Brasil",
+    "preco": 100000.0,
+    "area_m2": 264.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-montes-claros-goiania-264m2-venda-RS100000-id-2803369114/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -46.6228155
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Alameda Zuleica Costa Rodrigues, Lote/Terreno para comprar emResidencial Buena Vista III, Goiânia, Goiânia, Brasil",
+    "preco": 70000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-buena-vista-iii-goiania-300m2-venda-RS70000-id-2750775339/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7546145,
+      "longitude": -49.3436237
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua TV9, Lote/Terreno para comprar emLoteamento Tropical Verde, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 300.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-loteamento-tropical-verde-goiania-300m2-venda-RS140000-id-2575834683/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6869661,
+      "longitude": -49.3437803
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Via Amim Camargo, Lote/Terreno para comprar emCondomínio Amin Camargo, Goiânia, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 432.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-amin-camargo-goiania-432m2-venda-RS125000-id-2753472406/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7681012,
+      "longitude": -49.3636146
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Laura Rocha, Lote/Terreno para comprar emJardim São José, Goiânia, Goiânia, Brasil",
+    "preco": 92500.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-1-quartos-jardim-sao-jose-goiania-200m2-venda-RS92500-id-2670476604/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6590031,
+      "longitude": -49.3079979
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua FV 32, Lote/Terreno para comprar emResidencial Forteville Extensão, Goiânia, Goiânia, Brasil",
+    "preco": 135000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-forteville-extensao-goiania-200m2-venda-RS135000-id-2802804022/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7469939,
+      "longitude": -49.3724434
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Hermes Fontes, Lote/Terreno para comprar emJardim Vila Boa, Goiânia, Goiânia, Brasil",
+    "preco": 71250.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-vila-boa-goiania-10m2-venda-RS71250-id-2708082069/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7284537,
+      "longitude": -49.31622
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua Ema4, Lote/Terreno para comprar emResidencial Recanto das Emas, Goiânia, Goiânia, Brasil",
+    "preco": 140000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-das-emas-goiania-200m2-venda-RS140000-id-2595406482/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7382467,
+      "longitude": -49.3673868
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua das Hortênsias, Lote/Terreno para comprar emJardim Botânico, Goiânia, Goiânia, Brasil",
+    "preco": 120000.0,
+    "area_m2": 354.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-jardim-botanico-goiania-354m2-venda-RS120000-id-2765536265/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6219639,
+      "longitude": -49.333826
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua PI 04, Lote/Terreno para comprar emResidencial Parque Imperial, Goiânia, Goiânia, Brasil",
+    "preco": 40000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-parque-imperial-goiania-270m2-venda-RS40000-id-2802317933/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.65281,
+      "longitude": -49.2432899
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua HM 11, Lote/Terreno para comprar emResidencial Hugo de Moraes, Goiânia, Goiânia, Brasil",
+    "preco": 150000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-hugo-de-moraes-goiania-360m2-venda-RS150000-id-2774155219/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6347556,
+      "longitude": -49.2920057
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua BM25, Lote/Terreno para comprar emResidencial Brisas da Mata, Goiânia, Goiânia, Brasil",
+    "preco": 110000.0,
+    "area_m2": 301.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-brisas-da-mata-goiania-301m2-venda-RS110000-id-2564153875/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5984924,
+      "longitude": -49.308005
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RI 16, Lote/Terreno para comprar emResidencial Itaipu, Goiânia, Goiânia, Brasil",
+    "preco": 49000.0,
+    "area_m2": 180.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-itaipu-goiania-180m2-venda-RS49000-id-2543468696/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7859643,
+      "longitude": -49.3675081
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Rainha-dos-Lagos, Lote/Terreno para comprar emResidencial Jardins do Cerrado 10, Goiânia, Goiânia, Brasil",
+    "preco": 125000.0,
+    "area_m2": 360.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-jardins-do-cerrado-10-goiania-360m2-venda-RS125000-id-2609249730/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6756589,
+      "longitude": -49.4348626
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Lote/Terreno para comprar emCondomínio Amin Camargo, Goiânia, Goiânia, Brasil",
+    "preco": 130000.0,
+    "area_m2": 380.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-condominio-amin-camargo-goiania-380m2-venda-RS130000-id-2805155714/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7764523,
+      "longitude": -49.2418608
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua F8, Lote/Terreno para comprar emResidencial Flórida, Goiânia, Goiânia, Brasil",
+    "preco": 10000.0,
+    "area_m2": 270.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-florida-goiania-270m2-venda-RS10000-id-2560444719/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7243435,
+      "longitude": -49.3371567
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua RSB 1, Lote/Terreno para comprar emResidencial São Bernardo, Goiânia, Goiânia, Brasil",
+    "preco": 65000.0,
+    "area_m2": 231.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-sao-bernardo-goiania-231m2-venda-RS65000-id-2558208150/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6469273,
+      "longitude": -49.3399715
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida Eli Alves Forte, Lote/Terreno para comprar emResidencial Recanto das Emas, Goiânia, Goiânia, Brasil",
+    "preco": 124000.0,
+    "area_m2": 200.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-recanto-das-emas-goiania-200m2-venda-RS124000-id-2567563911/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7382467,
+      "longitude": -49.3673868
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Rua dos Campos Elísios, Lote/Terreno para comprar emResidencial Santa Fé, Goiânia, Goiânia, Brasil",
+    "preco": 85000.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-santa-fe-goiania-10m2-venda-RS85000-id-2783087127/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7765384,
+      "longitude": -49.3500895
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Avenida das Américas, Lote/Terreno para comprar emResidencial Jardins do Cerrado 4, Goiânia, Goiânia, Brasil",
+    "preco": 149000.0,
+    "area_m2": 10.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/lote-terreno-residencial-jardins-do-cerrado-4-goiania-10m2-venda-RS149000-id-2730460876/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7078371,
+      "longitude": -49.3358659
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": null,
+    "preco": 120000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": null,
+    "preco": 90000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": null,
+    "preco": 60000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Jardim Dom Bosco 2ª Etapa, Aparecida de Goiânia / GO",
+    "preco": 90000.0,
+    "area_m2": null,
+    "quartos": "366",
+    "banheiros": null,
+    "vagas": null,
+    "link": null,
+    "geolocalizacao": {
+      "latitude": -16.8250464,
+      "longitude": -49.3532632
+    },
+    "fonte": "facilitaimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Jardim das Cascatas, Aparecida de Goiânia / GO",
+    "preco": 110000.0,
+    "area_m2": null,
+    "quartos": "387",
+    "banheiros": "387",
+    "vagas": null,
+    "link": null,
+    "geolocalizacao": {
+      "latitude": -16.8206599,
+      "longitude": -49.3280182
+    },
+    "fonte": "facilitaimoveis"
+  },
+  {
+    "tipo_imovel": "Terreno",
+    "finalidade": "Venda",
+    "endereco": "Residencial Solar Central Park, Aparecida de Goiânia / GO",
+    "preco": 115000.0,
+    "area_m2": null,
+    "quartos": "360",
+    "banheiros": null,
+    "vagas": null,
+    "link": null,
+    "geolocalizacao": {
+      "latitude": -16.812819,
+      "longitude": -49.2574381
+    },
+    "fonte": "facilitaimoveis"
+  }
+]

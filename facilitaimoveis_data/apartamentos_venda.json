@@ -1,0 +1,92 @@
+[
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Setor Oeste, Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 1,
+    "vagas": 26,
+    "area_m2": null,
+    "preco": 210000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Chácaras São Pedro, Aparecida de Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 1,
+    "vagas": 1,
+    "area_m2": 53.06,
+    "preco": 226000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Chácaras São Pedro, Aparecida de Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 255000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Setor Central, Goiânia / GO",
+    "dormitorios": 2,
+    "banheiros": 2,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 580000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Setor Bueno, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 3,
+    "vagas": 3,
+    "area_m2": null,
+    "preco": 595000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Setor Bueno, Goiânia / GO",
+    "dormitorios": 1,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 635000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Serrinha, Goiânia / GO",
+    "dormitorios": 1,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 635000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Setor Central, Goiânia / GO",
+    "dormitorios": 3,
+    "banheiros": 1,
+    "vagas": 2,
+    "area_m2": null,
+    "preco": 690000.0
+  },
+  {
+    "negocio": "Venda",
+    "tipo": "Apartamento",
+    "endereco": "Setor Oeste, Goiânia / GO",
+    "dormitorios": 4,
+    "banheiros": 4,
+    "vagas": 6,
+    "area_m2": null,
+    "preco": 2750000.0
+  }
+]

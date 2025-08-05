@@ -1,0 +1,16 @@
+Itens NÃO mapeados (fora da região) para resultados_casa_venda:
+Idx: 13, End: Goiânia, Setor Bueno, Coords: (-19.9641196,-43.4070587), Fonte: Cache
+Idx: 25, End: Planaltina, Setor dos Imigrantes, Coords: (-15.8486046,-48.3655388), Fonte: Existente
+Idx: 42, End: Planaltina, Setor Sul, Coords: (-16.0548559,-48.4174984), Fonte: Existente
+Idx: 53, End: Goiânia, Setor Bueno, Coords: (-19.9641196,-43.4070587), Fonte: Cache
+Idx: 58, End: Cocalzinho de Goiás, Coords: (-15.7800035,-48.7687732), Fonte: Existente
+Idx: 63, End: Planaltina, Jardim Paquetá II, Coords: (-15.4769942,-47.6024768), Fonte: Existente
+Idx: 85, End: Cocalzinho de Goiás, Girassol, Coords: (-15.7350649,-48.4050588), Fonte: Existente
+Idx: 101, End: Cocalzinho de Goiás, Girassol, Coords: (-15.7350649,-48.4050588), Fonte: Existente
+Idx: 102, End: Cocalzinho de Goiás, Girassol, Coords: (-15.7350649,-48.4050588), Fonte: Existente
+Idx: 104, End: Cocalzinho de Goiás, Girassol, Coords: (-15.7350649,-48.4050588), Fonte: Existente
+Idx: 105, End: Cocalzinho de Goiás, Coords: (-15.7800035,-48.7687732), Fonte: Existente
+Idx: 106, End: Cocalzinho de Goiás, Girassol, Coords: (-15.7350649,-48.4050588), Fonte: Existente
+Idx: 107, End: Cocalzinho de Goiás, Coords: (-15.7800035,-48.7687732), Fonte: Existente
+Idx: 109, End: Cocalzinho de Goiás, Edilândia, Coords: (-15.7790537,-48.5353443), Fonte: Existente
+Idx: 110, End: Cocalzinho de Goiás, Coords: (-15.7800035,-48.7687732), Fonte: Existente

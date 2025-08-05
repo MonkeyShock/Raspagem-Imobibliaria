@@ -1,0 +1,5105 @@
+[
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Solange Parque I",
+    "preco": 3000.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-4-quartos-1408402572",
+    "geolocalizacao": null,
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Cristalino",
+    "preco": 1700.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-3-quartos-jardim-cristalino-1408333560",
+    "geolocalizacao": {
+      "latitude": -16.8205204,
+      "longitude": -49.2812656
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Marista",
+    "preco": 3600.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-comercial-03-quartos-01-suite-02-salas-setor-marista-ao-lado-capelli-1408326399",
+    "geolocalizacao": {
+      "latitude": -16.7013045,
+      "longitude": -49.2615743
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Sítios Santa Luzia Residencial",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-santa-luzia-1404786995",
+    "geolocalizacao": {
+      "latitude": -16.7552681,
+      "longitude": -49.2403948
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Industrial Santo Antônio",
+    "preco": 2200.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-nova-com-3-quartos-e-area-gourmet-setor-industrial-santo-antonio-1408312323",
+    "geolocalizacao": {
+      "latitude": -16.7979926,
+      "longitude": -49.2670784
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Parque Industrial de Senador Canedo",
+    "preco": 1900.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-aluguel-3-quartos-1-suite-residencial-parque-industrial-senador-canedo-g-1403980749",
+    "geolocalizacao": {
+      "latitude": -16.7272142,
+      "longitude": -49.1028925
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Leste Vila Nova",
+    "preco": 1600.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-segunda-avenida-qd-02-lt-17-n-136-setor-leste-vila-nova-goiania-1408278464",
+    "geolocalizacao": {
+      "latitude": -16.6653814,
+      "longitude": -49.2444975
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Sul",
+    "preco": 1500.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-de-2-quartos-no-setor-sul-goiania-go-1408278439",
+    "geolocalizacao": {
+      "latitude": -16.6904359,
+      "longitude": -49.2528411
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Perim",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-de-fundos-de-2-quartos-no-setor-perim-goiania-1389713129",
+    "geolocalizacao": {
+      "latitude": -16.6509872,
+      "longitude": -49.2886465
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Flor do Cerrado",
+    "preco": 1500.0,
+    "area_m2": 110.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-locacao-no-bairro-flor-do-cerrado-1408231901",
+    "geolocalizacao": {
+      "latitude": -16.2935314,
+      "longitude": -48.9243883
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Cidade Verde",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-1408227431",
+    "geolocalizacao": {
+      "latitude": -16.6696996,
+      "longitude": -49.333002
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor Garavelo",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-proximo-ao-banco-bradesco-1408226951",
+    "geolocalizacao": {
+      "latitude": -16.7538742,
+      "longitude": -49.3377457
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia",
+    "preco": 2900.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-de-2qts-1-suite-setor-buriti-sereno-aparecida-de-goiania-1403458181",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "olx",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Jardim Marista",
+    "preco": 1500.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-de-2-quartos-no-setor-jardim-imperial-trindade-1408181680",
+    "geolocalizacao": {
+      "latitude": -16.6408851,
+      "longitude": -49.4171587
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial José Viandeli",
+    "preco": 1000.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-sem-garagem-p-carro-1408042765",
+    "geolocalizacao": {
+      "latitude": -16.6204741,
+      "longitude": -49.2820969
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Caravelas 1ª Etapa",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-casa-jardim-caravelas-1407974650",
+    "geolocalizacao": {
+      "latitude": -16.756194,
+      "longitude": -49.353129
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Aeroporto",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-jardim-caravelas-1407967799",
+    "geolocalizacao": {
+      "latitude": -16.6718348,
+      "longitude": -49.2686133
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Jardim Ipanema",
+    "preco": 1300.0,
+    "area_m2": 106.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/locacao-de-casa-no-jardim-ipanema-1407958181",
+    "geolocalizacao": {
+      "latitude": -16.6265144,
+      "longitude": -49.3958098
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Vila Cruzeiro do Sul",
+    "preco": 1850.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-av-zoroastro-artiaga-conjunto-cruzeiro-do-sul-1407957228",
+    "geolocalizacao": {
+      "latitude": -16.7582747,
+      "longitude": -49.274288
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Maysa",
+    "preco": 1600.0,
+    "area_m2": 91.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-4-rua-mara-rosa-setor-maysa-trindade-go-1380771074",
+    "geolocalizacao": {
+      "latitude": -16.6262151,
+      "longitude": -49.3914597
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Ipanema - 1º Complemento",
+    "preco": 2000.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-setor-jardim-ipanema-ap-de-goiania-1406149964",
+    "geolocalizacao": {
+      "latitude": -16.7895591,
+      "longitude": -49.2454597
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor São José",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-com-3-quartos-1407938565",
+    "geolocalizacao": {
+      "latitude": -16.6586403,
+      "longitude": -49.3021164
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor Belo Horizonte",
+    "preco": 1100.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-chama-no-zap-na-descricao-1407918156",
+    "geolocalizacao": {
+      "latitude": -16.785652,
+      "longitude": -49.3514634
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Condomínio Amin Camargo",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-no-residencial-atibaia-1407895587",
+    "geolocalizacao": {
+      "latitude": -16.7681012,
+      "longitude": -49.3661519
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Pedro Ludovico",
+    "preco": 1850.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-no-st-pedro-ludovico-goiania-1405121587",
+    "geolocalizacao": {
+      "latitude": -16.7148706,
+      "longitude": -49.2546775
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Sítios de Recreio Mansões do Campus",
+    "preco": 1900.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-condominio-1396486736",
+    "geolocalizacao": {
+      "latitude": -16.5755522,
+      "longitude": -49.2951878
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Novo Petrópolis",
+    "preco": 1400.0,
+    "area_m2": 106.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-quartos-um-banheiro-cozinha-sala-quintal-grande-no-jardim-novo-petropolis-go-1407847202",
+    "geolocalizacao": {
+      "latitude": -16.6549167,
+      "longitude": -49.3433231
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Guanabara",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-de-casa-1407833106",
+    "geolocalizacao": {
+      "latitude": -16.6190702,
+      "longitude": -49.216673
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Balneário",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-jardim-balneario-1407819512",
+    "geolocalizacao": {
+      "latitude": -16.6122695,
+      "longitude": -49.2894494
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Tropical",
+    "preco": 3800.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-comercial-1407801487",
+    "geolocalizacao": {
+      "latitude": -16.772219,
+      "longitude": -49.3439019
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor Conde dos Arcos Complemento",
+    "preco": 2100.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-conde-dos-arcos-1407759328",
+    "geolocalizacao": {
+      "latitude": -16.8145105,
+      "longitude": -49.2823876
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Parque Residencial Morumbi",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-pra-alugar-no-vale-das-pombas-1407770256",
+    "geolocalizacao": {
+      "latitude": -16.7038507,
+      "longitude": -49.2466561
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Atlântico",
+    "preco": 3800.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-condominio-prive-atlantico-1407766354",
+    "geolocalizacao": {
+      "latitude": -16.7347872,
+      "longitude": -49.2900349
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Porangatu, Centro",
+    "preco": null,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-com-3-quartos-sendo-1-suite-1407757283",
+    "geolocalizacao": {
+      "latitude": -13.4421567,
+      "longitude": -49.1502739
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-pra-alugar-1407753982",
+    "geolocalizacao": {
+      "latitude": -16.3333469,
+      "longitude": -48.9491293
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Boa Vista",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-nova-para-alugar-anapolis-go-1407740446",
+    "geolocalizacao": {
+      "latitude": -16.3046621,
+      "longitude": -48.936681
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Tropical",
+    "preco": 1300.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-jardim-tropical-1407733841",
+    "geolocalizacao": {
+      "latitude": -16.772219,
+      "longitude": -49.3439019
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Dom Bosco",
+    "preco": 2500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-mobiliada-1407731709",
+    "geolocalizacao": {
+      "latitude": -16.8250628,
+      "longitude": -49.3509257
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Vale do Sol",
+    "preco": 1200.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-3-quartos-sendo-uma-suite-no-bairro-vale-do-sol-1407694356",
+    "geolocalizacao": {
+      "latitude": -16.2914083,
+      "longitude": -48.9278576
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Sítios Santa Luzia",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-quartos-no-santa-luzia-aparecida-de-goiania-1407678467",
+    "geolocalizacao": {
+      "latitude": -16.7507682,
+      "longitude": -49.231201
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Sítios Santa Luzia Residencial",
+    "preco": 2400.0,
+    "area_m2": 102.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-contendo-102-m-de-area-construida-3-quartos-sendo-1-suite-1407483277",
+    "geolocalizacao": {
+      "latitude": -16.7552681,
+      "longitude": -49.2403948
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Criméia Oeste",
+    "preco": 2300.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-duplex-3qts-perto-rodoviaria-1406370051",
+    "geolocalizacao": {
+      "latitude": -16.6498082,
+      "longitude": -49.2666673
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Residencial São Bernardo II",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-no-sao-bernardo-2-trindade-1407457868",
+    "geolocalizacao": {
+      "latitude": -16.5818505,
+      "longitude": -49.4006976
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Rosa dos Ventos",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-1407434286",
+    "geolocalizacao": {
+      "latitude": -16.8480269,
+      "longitude": -49.2348559
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Garavelo Residencial Park",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-garavelo-2-quartos-1407421371",
+    "geolocalizacao": {
+      "latitude": -16.7614945,
+      "longitude": -49.335649
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor São José",
+    "preco": 1500.0,
+    "area_m2": 110.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-terrea-1407412406",
+    "geolocalizacao": {
+      "latitude": -16.6586403,
+      "longitude": -49.3021164
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Papillon Park - Complemento",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-1407376204",
+    "geolocalizacao": {
+      "latitude": -16.7796129,
+      "longitude": -49.2743837
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Fazenda São Domingos",
+    "preco": 3000.0,
+    "area_m2": 110.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-quartos-condominio-encanto-codigo-122074-1407250829",
+    "geolocalizacao": {
+      "latitude": -16.8273518,
+      "longitude": -48.9891717
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Morumbi",
+    "preco": 2000.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-aluguel-residencial-morumbi-anapolis-1402567415",
+    "geolocalizacao": {
+      "latitude": -16.496574,
+      "longitude": -49.1146346
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Araujoville",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-proximo-ao-ana-shopping-1403757283",
+    "geolocalizacao": {
+      "latitude": -16.301617,
+      "longitude": -48.9500784
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Jaó",
+    "preco": 3200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-nova-primeira-moradia-setor-jao-1407053140",
+    "geolocalizacao": {
+      "latitude": -16.6450773,
+      "longitude": -49.2287391
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Ana Lúcia",
+    "preco": 2300.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-no-jardim-ana-lucia-prox-da-av-belo-horizonte-panificadora-sto-antonio-1406999747",
+    "geolocalizacao": {
+      "latitude": -16.6999985,
+      "longitude": -49.3115191
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Flor do Cerrado",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-nova-residencial-flor-do-cerrado-1406999291",
+    "geolocalizacao": {
+      "latitude": -16.2935314,
+      "longitude": -48.9243883
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Campinas",
+    "preco": 2300.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-de-3-quartos-com-garagem-1399241186",
+    "geolocalizacao": {
+      "latitude": -16.660884,
+      "longitude": -49.2927256
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Recanto do Bosque",
+    "preco": 1800.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-de-3-quartos-no-recanto-do-bosque-1401076182",
+    "geolocalizacao": {
+      "latitude": -16.6025443,
+      "longitude": -49.3093909
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Concórdia",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-1406924897",
+    "geolocalizacao": {
+      "latitude": -16.6620829,
+      "longitude": -49.1863017
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Califórnia",
+    "preco": 2200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-tres-quartos-jardim-california-quintal-grande-e-garagem-coberta-1390189792",
+    "geolocalizacao": {
+      "latitude": -16.6760919,
+      "longitude": -49.1952267
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aruanã",
+    "preco": 1100.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-temporada-1399601738",
+    "geolocalizacao": {
+      "latitude": -16.7329549,
+      "longitude": -49.2712844
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Flamboyant",
+    "preco": 1800.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-bairro-flamboyant-1406697011",
+    "geolocalizacao": {
+      "latitude": -16.3360273,
+      "longitude": -48.9362348
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Andréia",
+    "preco": 950.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-quartos-no-setor-andreia-em-goiania-go-1406687371",
+    "geolocalizacao": {
+      "latitude": -16.7979903,
+      "longitude": -49.3707742
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Sul",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-2-quartos-senador-canedo-1406662348",
+    "geolocalizacao": {
+      "latitude": -16.6904359,
+      "longitude": -49.2528411
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Planaltina, Setor Norte",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-de-2-quartos-em-planaltina-goias-1406637701",
+    "geolocalizacao": {
+      "latitude": -15.4435452,
+      "longitude": -47.6069695
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jardim América",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-aluguel-cidade-anapolis-goias-1406636852",
+    "geolocalizacao": {
+      "latitude": -16.3485666,
+      "longitude": -48.9419759
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardins Lisboa",
+    "preco": 1790000.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-terrea-no-condominio-jardins-lisboa-com-3-suites-plenas-1322181390",
+    "geolocalizacao": {
+      "latitude": -16.7714284,
+      "longitude": -49.3545938
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Novo Mundo",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-perto-do-forum-assembleia-legislativa-jardim-novo-mundo-1406603072",
+    "geolocalizacao": {
+      "latitude": -16.6747457,
+      "longitude": -49.2161075
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Balneário Meia Ponte",
+    "preco": 3500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-de-3-quartos-no-condominio-balneario-villa-verde-goiania-go-1406393441",
+    "geolocalizacao": {
+      "latitude": -16.6155575,
+      "longitude": -49.2979406
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim das Rosas",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-em-condominio-fechado-village-buriti-iii-jardim-das-rosas-1406331413",
+    "geolocalizacao": {
+      "latitude": -16.7309703,
+      "longitude": -49.4031236
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jardim Europa I e II",
+    "preco": 1130.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-pra-alugar-no-jardim-europa-anapolis-1406289102",
+    "geolocalizacao": {
+      "latitude": -16.3366085,
+      "longitude": -48.9276243
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Cristina",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-em-condominio-popular-1406282104",
+    "geolocalizacao": {
+      "latitude": -16.6338629,
+      "longitude": -49.4219501
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Jardim das Oliveiras",
+    "preco": 750.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-jardim-das-oliveiras-1406243676",
+    "geolocalizacao": {
+      "latitude": -16.6514494,
+      "longitude": -49.1539276
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Helvécia",
+    "preco": 1600.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-1406214321",
+    "geolocalizacao": {
+      "latitude": -16.7543602,
+      "longitude": -49.3199485
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Santa Helena",
+    "preco": 1800.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/vila-santa-helena-casa-3-quartos-1406200989",
+    "geolocalizacao": {
+      "latitude": -16.6554364,
+      "longitude": -49.282807
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, American Park",
+    "preco": null,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/estou-procurando-uma-casa-para-alugar-1408401195",
+    "geolocalizacao": {
+      "latitude": -16.7857294,
+      "longitude": -49.2893676
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Recanto das Emas",
+    "preco": 2500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/preciso-alugar-casa-regiao-vila-pedroso-1408334567",
+    "geolocalizacao": {
+      "latitude": -16.7382467,
+      "longitude": -49.3673868
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Real",
+    "preco": 1400.0,
+    "area_m2": 97.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-jardim-real-codigo-121034-1405874139",
+    "geolocalizacao": {
+      "latitude": -16.6518435,
+      "longitude": -49.3773233
+    },
+    "fonte": "olx",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Mont Serrat",
+    "preco": 2100.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-1405867317",
+    "geolocalizacao": {
+      "latitude": -16.759624,
+      "longitude": -49.2635484
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Residencial Laranjeiras",
+    "preco": 1700.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-nova-com-2-quartos-1-suite-para-alugar-no-residencial-laranjeiras-1405824430",
+    "geolocalizacao": {
+      "latitude": -16.7391608,
+      "longitude": -49.0789677
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Hidrolândia",
+    "preco": 2500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-cidade-de-hidrolandia-1405763516",
+    "geolocalizacao": {
+      "latitude": -16.9674113,
+      "longitude": -49.2288364
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Santa Rita VII",
+    "preco": 3500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-1405758291",
+    "geolocalizacao": {
+      "latitude": -16.7344004,
+      "longitude": -49.3371216
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Pirenópolis",
+    "preco": 450.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-piscina-aquecida-conzinha-completa-20-minutos-do-centro-pirenopolis-goias-1405728683",
+    "geolocalizacao": {
+      "latitude": -15.8535612,
+      "longitude": -48.9612299
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Setor Summerville 1ª e 2ª Etapa",
+    "preco": 2300.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-com-4-quartos-1-suite-1405680410",
+    "geolocalizacao": {
+      "latitude": -16.5155544,
+      "longitude": -49.0920933
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Redenção",
+    "preco": 1100.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/apartamento-casa-kitinete-kithenete-kitenete-barracao-loft-suite-conjugado-1404008361",
+    "geolocalizacao": {
+      "latitude": -16.7205783,
+      "longitude": -49.2439114
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Cerejeiras II Etapa",
+    "preco": 2000.0,
+    "area_m2": 98.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-aluguel-3-quarto-s-residencial-cerejeiras-ii-etapa-anapolis-ca2699-1405603718",
+    "geolocalizacao": {
+      "latitude": -16.5183677,
+      "longitude": -49.1294769
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Central",
+    "preco": 1100.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-no-setor-central-nos-fundos-da-igreja-universal-da-avenida-goias-1387655094",
+    "geolocalizacao": {
+      "latitude": -16.6717594,
+      "longitude": -49.2575841
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Ponta Kayana",
+    "preco": 1370.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-padrao-para-aluguel-em-setor-ponta-kayana-trindade-go-1405254705",
+    "geolocalizacao": {
+      "latitude": -16.6385256,
+      "longitude": -49.4353909
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Marechal Rondon",
+    "preco": 2000.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/otima-casa-para-locacao-03-quartos-100m-localizacao-boa-no-setor-marechal-rondon-goian-1402149873",
+    "geolocalizacao": {
+      "latitude": -16.6638522,
+      "longitude": -49.2677914
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Redenção",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-procuro-leia-o-anuncio-1405210001",
+    "geolocalizacao": {
+      "latitude": -16.7205783,
+      "longitude": -49.2439114
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Veneza",
+    "preco": 2200.0,
+    "area_m2": 95.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/locacao-de-casa-no-jardim-veneza-1405200819",
+    "geolocalizacao": {
+      "latitude": -16.7938427,
+      "longitude": -49.311835
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Abaporu",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-2-quartos-garagem-c-portao-eletronico-1405194544",
+    "geolocalizacao": {
+      "latitude": -16.654411,
+      "longitude": -49.1844604
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Morumbi",
+    "preco": 1500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-no-morumbi-1405192730",
+    "geolocalizacao": {
+      "latitude": -16.496574,
+      "longitude": -49.1146346
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Vila Santa Isabel",
+    "preco": 2250.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-bairro-santa-isabel-anapolis-go-1405152438",
+    "geolocalizacao": {
+      "latitude": -16.4848247,
+      "longitude": -49.0891003
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Oeste",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-1-casa-2-barracoes-para-festa-em-trindade-goias-proxima-da-igreja-matriz-1405124121",
+    "geolocalizacao": {
+      "latitude": -16.6840703,
+      "longitude": -49.2699842
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor dos Afonsos",
+    "preco": 1800.0,
+    "area_m2": null,
+    "quartos": "5",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-para-eventos-espaco-de-festa-1405064527",
+    "geolocalizacao": {
+      "latitude": -16.7407919,
+      "longitude": -49.2702394
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Alphaville Flamboyant",
+    "preco": 25000.0,
+    "area_m2": null,
+    "quartos": "5",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-condominio-alphaville-araguaia-jardins-portal-do-sol-green-1405043388",
+    "geolocalizacao": {
+      "latitude": -16.7139111,
+      "longitude": -49.2006751
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Flórida",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-uma-casa-com-2-quartos-sala-copa-cozinha-e-garagem-watsapp-1407230224",
+    "geolocalizacao": {
+      "latitude": -16.7173283,
+      "longitude": -49.3477646
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Parque Atheneu",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-parque-atheneu-1407089075",
+    "geolocalizacao": {
+      "latitude": -16.7451485,
+      "longitude": -49.1944306
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aruanã",
+    "preco": 90.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-linda-casa-beira-rio-araguaia-aruana-1257614927",
+    "geolocalizacao": {
+      "latitude": -16.7329549,
+      "longitude": -49.2712844
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Conjunto Riviera",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-goiania-1404762292",
+    "geolocalizacao": {
+      "latitude": -16.6890642,
+      "longitude": -49.216697
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Sudoeste",
+    "preco": 2700.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-fins-comerciais-sudoeste-1404740889",
+    "geolocalizacao": {
+      "latitude": -16.6956537,
+      "longitude": -49.2994659
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Buriti Sereno",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-espacosa-no-jardim-buriti-sereno-aparecida-de-goiania-1404636428",
+    "geolocalizacao": {
+      "latitude": -16.7833512,
+      "longitude": -49.3209432
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Guapó",
+    "preco": 20000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/agio-casa-nova-em-guapo-1404364733",
+    "geolocalizacao": {
+      "latitude": -16.8344675,
+      "longitude": -49.5397652
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Alto Paraíso de Goiás",
+    "preco": 2800.0,
+    "area_m2": 100.0,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-em-conteiner-1403003035",
+    "geolocalizacao": {
+      "latitude": -14.1375039,
+      "longitude": -47.516804
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Cristalino",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-jardim-cristalino-aparecida-de-goiania-1404216352",
+    "geolocalizacao": {
+      "latitude": -16.8205204,
+      "longitude": -49.2812656
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Parque Tremendão",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-em-condominio-fechado-1404175132",
+    "geolocalizacao": {
+      "latitude": -16.6148207,
+      "longitude": -49.3307451
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Garavelo",
+    "preco": 2200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-garavelo-b-3-quartos-1404090957",
+    "geolocalizacao": {
+      "latitude": -16.7475413,
+      "longitude": -49.3529506
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Garavelo",
+    "preco": 1100.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-no-garavelo-b-3-quartos-1404084838",
+    "geolocalizacao": {
+      "latitude": -16.7475413,
+      "longitude": -49.3529506
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Pedro Ludovico",
+    "preco": 1600.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-setor-pedro-ludovico-prox-flamboyant-serra-dourada-1404020276",
+    "geolocalizacao": {
+      "latitude": -16.7148706,
+      "longitude": -49.2546775
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Aeroporto",
+    "preco": 2200.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-4-4-e-2-garagens-setor-aeroporto-1403996639",
+    "geolocalizacao": {
+      "latitude": -16.6718348,
+      "longitude": -49.2686133
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Real Conquista",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-em-condominio-fechado-1403951410",
+    "geolocalizacao": {
+      "latitude": -16.7804182,
+      "longitude": -49.3856881
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Ponta Kayana",
+    "preco": 1900.0,
+    "area_m2": 107.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-padrao-para-aluguel-em-setor-ponta-kayana-trindade-go-1403934244",
+    "geolocalizacao": {
+      "latitude": -16.6385256,
+      "longitude": -49.4353909
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Helvécia",
+    "preco": 3500.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-4-rua-inhandui-qd-41-lt-16-casa-2-jardim-helvecia-aparecida-de-goiania-go-1403909935",
+    "geolocalizacao": {
+      "latitude": -16.7543602,
+      "longitude": -49.3199485
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Parque Tremendão",
+    "preco": 850.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-quartos-para-1-pessoa-pq-tremendao-1403803297",
+    "geolocalizacao": {
+      "latitude": -16.6148207,
+      "longitude": -49.3307451
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Leste Universitário",
+    "preco": 1400.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-3-4-setor-leste-universitario-1403780607",
+    "geolocalizacao": {
+      "latitude": -16.6793895,
+      "longitude": -49.238647
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Colina Azul",
+    "preco": 1400.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-colina-azul-1403693645",
+    "geolocalizacao": {
+      "latitude": -16.8279792,
+      "longitude": -49.292637
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim dos Girassóis",
+    "preco": 1400.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-3-quartas-proximo-ao-aparecida-shopping-1393096849",
+    "geolocalizacao": {
+      "latitude": -16.82951,
+      "longitude": -49.2699855
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Inhumas, Residencial Atlântida",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-de-dois-quartos-no-setor-residencial-atlantida-em-inhumas-1403400447",
+    "geolocalizacao": {
+      "latitude": -16.3364366,
+      "longitude": -49.5000545
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Santos Dumont",
+    "preco": 1350.0,
+    "area_m2": 96.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/rua-26-q-62-l-7-s-n-casa-1-setor-santos-dumont-goiania-goias-cep-74-463-690-1403066362",
+    "geolocalizacao": {
+      "latitude": -16.6523734,
+      "longitude": -49.3457906
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Santos Dumont",
+    "preco": 1550.0,
+    "area_m2": 96.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/rua-26-q-62-l-7-s-n-casa-2-setor-santos-dumont-goiania-goias-cep-74-463-690-1403066166",
+    "geolocalizacao": {
+      "latitude": -16.6523734,
+      "longitude": -49.3457906
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Vila Brasília",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-na-vila-brasilia-1403050289",
+    "geolocalizacao": {
+      "latitude": -16.7396596,
+      "longitude": -49.2515252
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Norte Ferroviário",
+    "preco": 2000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/exelente-casa-ferroviario-1405304936",
+    "geolocalizacao": {
+      "latitude": -16.6578782,
+      "longitude": -49.2618853
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Setor Sul",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-1402785869",
+    "geolocalizacao": {
+      "latitude": -16.3665597,
+      "longitude": -48.951488
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Novo Mundo",
+    "preco": 1650.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-2-4-grandes-1402776200",
+    "geolocalizacao": {
+      "latitude": -16.6747457,
+      "longitude": -49.2161075
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Cristina II",
+    "preco": 10000.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-trindade-1402714278",
+    "geolocalizacao": {
+      "latitude": -16.6723871,
+      "longitude": -49.4867348
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim América",
+    "preco": 1800.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-jardim-america-rua-c-180-1402636489",
+    "geolocalizacao": {
+      "latitude": -16.7085925,
+      "longitude": -49.2844598
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Villasul",
+    "preco": 1300.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-vila-sul-1402540509",
+    "geolocalizacao": {
+      "latitude": -16.7385069,
+      "longitude": -49.2481625
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goianésia, Residencial Bougainville",
+    "preco": 1750.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-bougainville-1402394021",
+    "geolocalizacao": {
+      "latitude": -16.0342701,
+      "longitude": -49.2336061
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Atlântico",
+    "preco": 1900.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-3-quartos-1402372190",
+    "geolocalizacao": {
+      "latitude": -16.7347872,
+      "longitude": -49.2900349
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Pirenópolis, Jardim Santa Bárbara",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "5",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-temporada-pirenopolis-1400585921",
+    "geolocalizacao": {
+      "latitude": -15.8580891,
+      "longitude": -48.9466628
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Parque Anhanguera",
+    "preco": 2200.0,
+    "area_m2": 102.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-setor-parque-anhanguera-i-3-quartos-1-suite-1402165047",
+    "geolocalizacao": {
+      "latitude": -16.7252172,
+      "longitude": -49.2951537
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Parque Amazônia",
+    "preco": 1950.0,
+    "area_m2": 95.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-1402152143",
+    "geolocalizacao": {
+      "latitude": -16.7408496,
+      "longitude": -49.2804481
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Frei Eustáquio",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/procura-casa-para-alugar-1402060064",
+    "geolocalizacao": {
+      "latitude": -16.3189373,
+      "longitude": -48.969039
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Oeste",
+    "preco": 300.0,
+    "area_m2": null,
+    "quartos": "40",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-aluguel-com-40-metros-quadrados-em-setor-oeste-goiania-goias-1401989081",
+    "geolocalizacao": {
+      "latitude": -16.6840703,
+      "longitude": -49.2699842
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Pedro Ludovico",
+    "preco": 3000.0,
+    "area_m2": 96.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-terrea-04-quartos-sendo-01-suite-cozinha-ampla-e-quintal-1401968123",
+    "geolocalizacao": {
+      "latitude": -16.7148706,
+      "longitude": -49.2546775
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Residencial Santa Edwiges",
+    "preco": 2500.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/oportunidade-santa-edwirges-casa-3-4-sendo-1-suite-cozinha-americana-integrada-com-a-1401768269",
+    "geolocalizacao": {
+      "latitude": -16.7043478,
+      "longitude": -49.1247242
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Sudoeste",
+    "preco": 1600.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-1401735799",
+    "geolocalizacao": {
+      "latitude": -16.6956537,
+      "longitude": -49.2994659
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim América",
+    "preco": 1800.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-4-rua-c-147-qd-359-lt-12-jardim-america-goiania-go-1401166400",
+    "geolocalizacao": {
+      "latitude": -16.7085925,
+      "longitude": -49.2844598
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Faiçalville",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-1404201457",
+    "geolocalizacao": {
+      "latitude": -16.7371767,
+      "longitude": -49.3176644
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim América",
+    "preco": 1700.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-2-quartos-e-1-vaga-de-garagem-1401687133",
+    "geolocalizacao": {
+      "latitude": -16.7085925,
+      "longitude": -49.2844598
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, De Lourdes",
+    "preco": 1050.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-no-bairro-de-lourdes-1401459292",
+    "geolocalizacao": {
+      "latitude": -16.3399263,
+      "longitude": -48.9177925
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Residencial Boa Vista",
+    "preco": 1800.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-1401438924",
+    "geolocalizacao": {
+      "latitude": -16.6639917,
+      "longitude": -49.1044803
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Itatiaia",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-nova-2q-1-suite-quintal-amplo-condominio-casas-flamboyant-anapolis-go-1401404139",
+    "geolocalizacao": {
+      "latitude": -16.3639332,
+      "longitude": -48.9676529
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Alto da Glória",
+    "preco": 950.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-quarto-da-minha-casa-tudo-por-950-00-1401336268",
+    "geolocalizacao": {
+      "latitude": -16.715418,
+      "longitude": -49.2384542
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardins Madri",
+    "preco": 9000.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-em-condominio-mobiliada-jardins-madri-lisboa-monaco-portal-do-sol-1401329618",
+    "geolocalizacao": {
+      "latitude": -16.7472739,
+      "longitude": -49.3451172
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Sudoeste",
+    "preco": 2800.0,
+    "area_m2": 108.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-condominio-3-quartos-setor-sudoeste-codigo-117645-1401165406",
+    "geolocalizacao": {
+      "latitude": -16.6956537,
+      "longitude": -49.2994659
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Loteamento Portal do Sol II",
+    "preco": 9500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-no-condominio-portal-do-sol-1401065306",
+    "geolocalizacao": {
+      "latitude": -16.7221177,
+      "longitude": -49.1853107
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Boa Vista",
+    "preco": 1400.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-bairro-boa-vista-com-barracao-nos-fundos-proximo-ao-campo-do-anapolis-1401055810",
+    "geolocalizacao": {
+      "latitude": -16.3046621,
+      "longitude": -48.936681
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Cidade Jardim",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/estou-procurando-casa-ou-barracao-1403251335",
+    "geolocalizacao": {
+      "latitude": -16.6886755,
+      "longitude": -49.3077784
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Barravento",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-de-1-quarto-grande-proximo-balneario-shopping-passeio-otima-localizacao-e-segura-1400909170",
+    "geolocalizacao": {
+      "latitude": -16.6338759,
+      "longitude": -49.1902763
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jardim Nações Unidas",
+    "preco": 1800.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-proximo-a-avenida-pedro-ludovico-e-o-central-park-1400848192",
+    "geolocalizacao": {
+      "latitude": -16.3405146,
+      "longitude": -48.9659267
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim América",
+    "preco": 1600.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-apartamento-1400661143",
+    "geolocalizacao": {
+      "latitude": -16.7085925,
+      "longitude": -49.2844598
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Alexânia",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "5",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-temporada-corumba-alexania-1400390980",
+    "geolocalizacao": {
+      "latitude": -16.0810173,
+      "longitude": -48.5068633
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Anhanguera",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "5",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-bairro-anhanguera-1402535881",
+    "geolocalizacao": {
+      "latitude": -16.675312,
+      "longitude": -49.2796278
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Parque Anhanguera",
+    "preco": 1600.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-parque-anhanguera-1400243480",
+    "geolocalizacao": {
+      "latitude": -16.7252172,
+      "longitude": -49.2951537
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor Garavelo",
+    "preco": 2500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-setor-garavelo-codigo-108229-1400224951",
+    "geolocalizacao": {
+      "latitude": -16.7538742,
+      "longitude": -49.3377457
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Sul",
+    "preco": 7000.0,
+    "area_m2": 106.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-comercial-setor-sul-codigo-99611-1400224372",
+    "geolocalizacao": {
+      "latitude": -16.6904359,
+      "longitude": -49.2528411
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Conjunto Uirapuru",
+    "preco": 1300.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-de-2-quartos-em-senador-canedo-go-1400211066",
+    "geolocalizacao": {
+      "latitude": -16.6936045,
+      "longitude": -49.0980552
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Uruaçu",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-uruacu-1400185929",
+    "geolocalizacao": {
+      "latitude": -16.680147,
+      "longitude": -49.3169245
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Goiânia Viva",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-1399994342",
+    "geolocalizacao": {
+      "latitude": -16.6983608,
+      "longitude": -49.3503953
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Parque Atheneu",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-1399813334",
+    "geolocalizacao": {
+      "latitude": -16.7451485,
+      "longitude": -49.1944306
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Centro",
+    "preco": 1400.0,
+    "area_m2": 104.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-3-dormitorios-para-alugar-104-m-por-r-1-400-mes-centro-anapolis-go-1399592952",
+    "geolocalizacao": {
+      "latitude": -16.305344,
+      "longitude": -48.9719433
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Santa Genoveva",
+    "preco": 3500.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-terrea-no-setor-santa-genoveva-1399581561",
+    "geolocalizacao": {
+      "latitude": -16.6356377,
+      "longitude": -49.2368419
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Conjunto Vera Cruz",
+    "preco": 1150.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-2-4-quartos-1399496874",
+    "geolocalizacao": {
+      "latitude": -16.6836828,
+      "longitude": -49.4115192
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Leste Universitário",
+    "preco": 950.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/kit-net-modelo-casa-1399343533",
+    "geolocalizacao": {
+      "latitude": -16.6793895,
+      "longitude": -49.238647
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Real Grandeza - 2ª Etapa",
+    "preco": 1200.0,
+    "area_m2": 110.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-real-grandeza-2-etapa-aparecida-de-goiania-go-1399322322",
+    "geolocalizacao": {
+      "latitude": -16.8278367,
+      "longitude": -49.2397528
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor Colonial Sul",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-1401425109",
+    "geolocalizacao": {
+      "latitude": -16.7995754,
+      "longitude": -49.3185273
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goianésia, Residencial Parque das Palmeiras",
+    "preco": 2100.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-parque-das-palmeiras1-goianesia-go-1398963032",
+    "geolocalizacao": {
+      "latitude": -15.3293364,
+      "longitude": -49.1418636
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Moinho dos Ventos",
+    "preco": 800.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/a-procura-de-um-casa-para-alugar-1401046429",
+    "geolocalizacao": {
+      "latitude": -16.7297104,
+      "longitude": -49.3468377
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Parque das Flores",
+    "preco": 1000.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-1-000-00-maria-dilce-1398829116",
+    "geolocalizacao": {
+      "latitude": -16.6270886,
+      "longitude": -49.291738
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Setor Tropical",
+    "preco": 2000.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-de-casa-em-anapolis-1398726575",
+    "geolocalizacao": {
+      "latitude": -16.3497826,
+      "longitude": -48.9249299
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jibran El Hadj",
+    "preco": 1200.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-2-dormitorios-para-alugar-100-m-por-r-1-200-00-mes-jibran-el-hadj-anapolis-1398528730",
+    "geolocalizacao": {
+      "latitude": -16.3660677,
+      "longitude": -48.9769736
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Jardim Leblon",
+    "preco": 850.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-kitnet-1398422915",
+    "geolocalizacao": {
+      "latitude": -16.6743976,
+      "longitude": -49.3225822
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Nossa Senhora Aparecida",
+    "preco": 680.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-urias-magalhaes-dividir-1392158276",
+    "geolocalizacao": {
+      "latitude": -16.6444148,
+      "longitude": -49.2719561
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Novo Mundo",
+    "preco": 1300.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-2-quartos-jd-novo-mundo-1314207842",
+    "geolocalizacao": {
+      "latitude": -16.6747457,
+      "longitude": -49.2161075
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Faiçalville",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-faicalville-3-1397839813",
+    "geolocalizacao": {
+      "latitude": -16.7371767,
+      "longitude": -49.3176644
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Água Branca",
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-pequena-2-quartos-bairro-agua-branca-1397830916",
+    "geolocalizacao": {
+      "latitude": -16.6925196,
+      "longitude": -49.2245972
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Setor Serra Dourada - 2ª Etapa",
+    "preco": 1750.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-casa-1400118094",
+    "geolocalizacao": {
+      "latitude": -16.8262238,
+      "longitude": -49.2645246
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Itatiaia",
+    "preco": 1800.0,
+    "area_m2": 95.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/busco-casa-perto-do-burite-shopping-1400023949",
+    "geolocalizacao": {
+      "latitude": -16.6028945,
+      "longitude": -49.2542762
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Nova Olinda",
+    "preco": 2100.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2q-locacao-setor-nova-olinda-1397556497",
+    "geolocalizacao": {
+      "latitude": -16.8316809,
+      "longitude": -49.2274223
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Aquários",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-kitinet-no-residencial-aquarios-px-a-casa-de-euripedes-e-rio-formoso-1397532226",
+    "geolocalizacao": {
+      "latitude": -16.7263774,
+      "longitude": -49.3294304
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Setor Bougainville",
+    "preco": 550.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-casa-1397511972",
+    "geolocalizacao": {
+      "latitude": -16.299171,
+      "longitude": -48.9385427
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis",
+    "preco": 1800.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-bairro-jibran-anapolis-1397511012",
+    "geolocalizacao": {
+      "latitude": -16.3333469,
+      "longitude": -48.9491293
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Santo André",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-santo-andre-1397486064",
+    "geolocalizacao": {
+      "latitude": -16.3546815,
+      "longitude": -48.955606
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Vila Boa",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-na-vila-boa-1397433578",
+    "geolocalizacao": {
+      "latitude": -16.7284537,
+      "longitude": -49.31622
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Center Ville",
+    "preco": 1700.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-no-centerville-para-aluguel-1397375346",
+    "geolocalizacao": {
+      "latitude": -16.7531333,
+      "longitude": -49.3426179
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Parque dos Pirineus",
+    "preco": 2500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/linda-casa-em-condominio-fechado-village-1-1381220136",
+    "geolocalizacao": {
+      "latitude": -16.2752054,
+      "longitude": -48.9555169
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Califórnia",
+    "preco": 1200.0,
+    "area_m2": 100.0,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-de-casa-pra-rapaz-com-garagem-coberta-1397009519",
+    "geolocalizacao": {
+      "latitude": -16.6760919,
+      "longitude": -49.1952267
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Leste Vila Nova",
+    "preco": 600.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-coletiva-e-compartilhada-mobiliada-para-estudantes-1396834082",
+    "geolocalizacao": {
+      "latitude": -16.6653814,
+      "longitude": -49.2444975
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aruanã",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": "5",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-amiz-aruana-1396739870",
+    "geolocalizacao": {
+      "latitude": -16.7329549,
+      "longitude": -49.2712844
+    },
+    "fonte": "olx",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Monticelli",
+    "preco": 3000.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-03q-gna-vila-monticelli-cs-04-1396492511",
+    "geolocalizacao": {
+      "latitude": -16.6512683,
+      "longitude": -49.2512787
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Itapaci",
+    "preco": 800.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-em-itapaci-no-residencial-aguas-claras-1396407211",
+    "geolocalizacao": {
+      "latitude": -16.6810336,
+      "longitude": -49.3195185
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Coimbra",
+    "preco": 2500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-comercial-no-setor-coimbra-proximo-da-praca-ciro-lizita-1396350809",
+    "geolocalizacao": {
+      "latitude": -16.6789499,
+      "longitude": -49.2871508
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Vila Boa",
+    "preco": 800.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-suite-quarto-e-banheiro-numa-casa-no-final-de-obra-1398152821",
+    "geolocalizacao": {
+      "latitude": -16.7284537,
+      "longitude": -49.31622
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Faiçalville",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-loja-moradia-escritorio-sobreloja-kitnet-1398134436",
+    "geolocalizacao": {
+      "latitude": -16.7371767,
+      "longitude": -49.3176644
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Estrela Dalva",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "1",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-no-estrela-dalva-1396195979",
+    "geolocalizacao": {
+      "latitude": -16.5923062,
+      "longitude": -49.3209775
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jardim Primavera 1ª Etapa",
+    "preco": 1700.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-3-quartos-para-locacao-no-residencial-vida-nova-1396191280",
+    "geolocalizacao": {
+      "latitude": -16.301059,
+      "longitude": -48.8933229
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo",
+    "preco": 1700.0,
+    "area_m2": 95.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-com-2-sendo-1-suite-em-senador-canedo-parque-das-flores-1396030612",
+    "geolocalizacao": {
+      "latitude": -16.7219237,
+      "longitude": -49.1147014
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiás",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/cidade-de-goias-aluguel-de-casa-1395890522",
+    "geolocalizacao": {
+      "latitude": -15.9466686,
+      "longitude": -49.5778588
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goianira, Jardim D'Assis",
+    "preco": 1150.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-alugar-1395659537",
+    "geolocalizacao": {
+      "latitude": -16.5092986,
+      "longitude": -49.4252893
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goianésia, Jardim Por do Sol",
+    "preco": null,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-no-jardim-por-do-sol-1395584245",
+    "geolocalizacao": {
+      "latitude": -16.0515167,
+      "longitude": -49.2381837
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Morais",
+    "preco": 2200.0,
+    "area_m2": 105.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-vila-morais-goiania-go-1395533905",
+    "geolocalizacao": {
+      "latitude": -16.6619086,
+      "longitude": -49.2230282
+    },
+    "fonte": "olx",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Parque Residencial Ander - II Etapa",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-1395406677",
+    "geolocalizacao": {
+      "latitude": -16.3384738,
+      "longitude": -48.9225989
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Bueno",
+    "preco": 2300.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-3-quartos-no-setor-bueno-1395169641",
+    "geolocalizacao": null,
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Garavelo",
+    "preco": 1000.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-no-garavelo-b-proximo-da-go-040-saida-pra-aragoiania-1394947187",
+    "geolocalizacao": {
+      "latitude": -16.7475413,
+      "longitude": -49.3529506
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial das Acácias",
+    "preco": 1000.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-1394792869",
+    "geolocalizacao": {
+      "latitude": -16.6239294,
+      "longitude": -49.2979191
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Oswaldo Rosa",
+    "preco": 2200.0,
+    "area_m2": null,
+    "quartos": "4",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-4-quartos-1394749233",
+    "geolocalizacao": {
+      "latitude": -16.666079,
+      "longitude": -49.2309735
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, São Carlos",
+    "preco": 1450.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-padre-catelli-1394549929",
+    "geolocalizacao": {
+      "latitude": -16.3114711,
+      "longitude": -48.9344241
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Buena Vista IV",
+    "preco": 1200.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-setor-buena-vista-2-4-proximo-a-saida-para-guapo-e-br060-1394538009",
+    "geolocalizacao": null,
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Casa para alugar emSetor Central, Goiânia, Goiânia, Brasil",
+    "preco": 1200.0,
+    "area_m2": 100.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-central-goiania-100m2-aluguel-RS1200-id-2794450713/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6717594,
+      "longitude": -49.2575841
+    },
+    "fonte": "vivareal",
+    "fontes_secundarias": [
+      "olx"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Centro Oeste",
+    "preco": 1100.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-setor-centro-oeste-1393440554",
+    "geolocalizacao": {
+      "latitude": -16.6539587,
+      "longitude": -49.2739164
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Residencial Melk",
+    "preco": 750.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-em-trindade-1393429211",
+    "geolocalizacao": {
+      "latitude": -16.6500617,
+      "longitude": -49.4616647
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Setor Maysa",
+    "preco": 1100.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-uma-casa-no-setor-maysa-1-condominio-master-bloco-a-rua-montes-claros-1393209739",
+    "geolocalizacao": {
+      "latitude": -16.6262151,
+      "longitude": -49.3914597
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Jardins do Lago",
+    "preco": 2600.0,
+    "area_m2": 102.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-de-3-quartos-suite-perto-do-jundiai-no-bairro-jardins-do-lago-1393027453",
+    "geolocalizacao": {
+      "latitude": -16.5237061,
+      "longitude": -49.0836514
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Central",
+    "preco": 1200.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-setor-central-goiania-go-1392867484",
+    "geolocalizacao": {
+      "latitude": -16.6717594,
+      "longitude": -49.2575841
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Orientville",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-locacao-3-quartos-sendo-01-suite-setor-orientville-goiania-go-1392838898",
+    "geolocalizacao": {
+      "latitude": -16.7476451,
+      "longitude": -49.3567417
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Campinas",
+    "preco": 1700.0,
+    "area_m2": null,
+    "quartos": "980",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-1392833486",
+    "geolocalizacao": {
+      "latitude": -16.660884,
+      "longitude": -49.2927256
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goianira, Residencial Triunfo",
+    "preco": 1400.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-triunfo-1-goianira-1392704603",
+    "geolocalizacao": {
+      "latitude": -16.5754906,
+      "longitude": -49.3841886
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, São Francisco",
+    "preco": 1900.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/excelente-casa-para-locacao-bairro-sao-francisco-goiania-go-1392525998",
+    "geolocalizacao": {
+      "latitude": -16.6662606,
+      "longitude": -49.3335971
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Parque Calixtópolis",
+    "preco": 1500.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-nova-acabamento-impec-aacute-vel-bancadas-em-granito-aacute-rea-de-lazer-3-q-1392276638",
+    "geolocalizacao": {
+      "latitude": -16.3997225,
+      "longitude": -48.9832621
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Alexânia",
+    "preco": 1500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-para-finais-de-semana-e-feriados-1391659850",
+    "geolocalizacao": {
+      "latitude": -16.0810173,
+      "longitude": -48.5068633
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Residencial Center Ville",
+    "preco": 2500.0,
+    "area_m2": 98.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-no-setor-center-ville-em-goiania-1391545853",
+    "geolocalizacao": {
+      "latitude": -16.7531333,
+      "longitude": -49.3426179
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Presidente",
+    "preco": 2500.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-com-jardim-de-inverno-jardim-presidente-1391515328",
+    "geolocalizacao": {
+      "latitude": -16.7362595,
+      "longitude": -49.3365504
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Senador Canedo, Residencial Condomínio Jardim Veneza",
+    "preco": 7000.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-casa-jardim-veneza-1391428946",
+    "geolocalizacao": {
+      "latitude": -16.6858495,
+      "longitude": -49.1548474
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jardim Primavera 1ª Etapa",
+    "preco": 1400.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/linda-casa-3-quartos-sendo-uma-suite-1391388625",
+    "geolocalizacao": {
+      "latitude": -16.301059,
+      "longitude": -48.8933229
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Nova Esperança",
+    "preco": 900.0,
+    "area_m2": null,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-casa-2-quartos-av-central-jd-nova-esperanca-1393325827",
+    "geolocalizacao": {
+      "latitude": -16.6421188,
+      "longitude": -49.3278336
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Goiás",
+    "preco": 2800.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-jardim-goias-1393168437",
+    "geolocalizacao": {
+      "latitude": -16.6983671,
+      "longitude": -49.2378702
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Niquelândia",
+    "preco": 200.0,
+    "area_m2": null,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-na-serra-da-mesa-3-quartos-1390976657",
+    "geolocalizacao": {
+      "latitude": -14.4708435,
+      "longitude": -48.4479122
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Chácaras São Pedro",
+    "preco": 2900.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-em-condominio-para-aluguel-possui-90-m-com-3-quartos-chacara-sao-pedro-aparecida-d-1390753566",
+    "geolocalizacao": {
+      "latitude": -16.7718785,
+      "longitude": -49.2295086
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Jardim Bandeirante",
+    "preco": 1350.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-locacao-na-vila-santa-izabel-prox-panificadora-modelo-1389594543",
+    "geolocalizacao": {
+      "latitude": -16.3130392,
+      "longitude": -48.9476407
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Oeste",
+    "preco": 2450.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-rua-r-16-1389419289",
+    "geolocalizacao": {
+      "latitude": -16.6840703,
+      "longitude": -49.2699842
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Setor Sul III Etapa",
+    "preco": 1900.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-3-quartos-para-locacao-setor-sul-iii-etapa-anapolis-1389304166",
+    "geolocalizacao": {
+      "latitude": -16.3261967,
+      "longitude": -48.9462366
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Setor Pedro Ludovico",
+    "preco": 2300.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-no-setor-pedro-ludovico-em-goiania-1388761241",
+    "geolocalizacao": {
+      "latitude": -16.7148706,
+      "longitude": -49.2546775
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Vila Redenção",
+    "preco": 700.0,
+    "area_m2": null,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/alugo-parte-de-uma-casa-1390989278",
+    "geolocalizacao": {
+      "latitude": -16.7205783,
+      "longitude": -49.2439114
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Goiá",
+    "preco": 2000.0,
+    "area_m2": 91.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-para-alugar-no-bairro-goia-em-goiania-2-quartos-1386377567",
+    "geolocalizacao": {
+      "latitude": -16.6870457,
+      "longitude": -49.3345725
+    },
+    "fonte": "olx",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Cidade Jardim",
+    "preco": 3500.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-de-03-quartos-na-cidade-jardim-em-goiania-go-1386305965",
+    "geolocalizacao": {
+      "latitude": -16.6886755,
+      "longitude": -49.3077784
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Aparecida de Goiânia, Jardim Nova Era",
+    "preco": 2000.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-residencial-1385960500",
+    "geolocalizacao": {
+      "latitude": -16.7522018,
+      "longitude": -49.281826
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Trindade, Jardim Decolores",
+    "preco": 4200.0,
+    "area_m2": 98.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/vendo-alugo-casa-condominio-fechado-1384767773",
+    "geolocalizacao": {
+      "latitude": -16.6400637,
+      "longitude": -49.470048
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Goiânia, Jardim Guanabara",
+    "preco": 1350.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluga-se-casa-no-setor-jardim-guanabara-2-quartos-garagem-1384649264",
+    "geolocalizacao": {
+      "latitude": -16.6190702,
+      "longitude": -49.216673
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Alto da Bela Vista",
+    "preco": 1200.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/aluguel-casa-3-quartos-2-vagas-de-garagem-bem-localizada-proximo-av-jk-1384294295",
+    "geolocalizacao": {
+      "latitude": -16.3518711,
+      "longitude": -48.9369157
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Anápolis, Residencial Buritis",
+    "preco": 1200.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/imoveis/casa-2-quartos-para-locacao-residencial-buritis-anapolis-1382693431",
+    "geolocalizacao": {
+      "latitude": -16.3383994,
+      "longitude": -48.9000366
+    },
+    "fonte": "olx"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Belo Horizonte, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1950.0,
+    "area_m2": 95.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-parque-amazonia-goiania-95m2-id-2804358656/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6259141,
+      "longitude": -49.2256625
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua H, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-fogao-setor-parque-tremendao-goiania-100m2-id-2806488644/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6280605,
+      "longitude": -49.3109868
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Gercina Borges Teixeira, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1350.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": "3",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-sobrados-2-quartos-jardim-sao-jose-goiania-90m2-id-2800028425/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6755781,
+      "longitude": -49.3858876
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 26, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1550.0,
+    "area_m2": 96.0,
+    "quartos": "3",
+    "banheiros": "3",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-santos-dumont-goiania-96m2-id-2805184114/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6930644,
+      "longitude": -49.267859
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Rio Araguaia, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1400.0,
+    "area_m2": 106.0,
+    "quartos": "2",
+    "banheiros": "1",
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-jardim-novo-petropolis-goiania-106m2-id-2809720829/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6006236,
+      "longitude": -49.3827422
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua C147, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-quintal-jardim-america-goiania-110m2-id-2803412324/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7165224,
+      "longitude": -49.2843056
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Tambuqui, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2500.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-parque-amazonia-goiania-110m2-id-2808423942/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7272014,
+      "longitude": -49.2790073
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua JR6, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1400.0,
+    "area_m2": 97.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-quintal-jardim-real-goiania-97m2-id-2808036123/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6599894,
+      "longitude": -49.2554774
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": []
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Genésio de Lima Brito, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3500.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-de-condominio-3-quartos-mobiliado-jardim-balneario-meia-ponte-goiania-100m2-id-2808476438/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6153873,
+      "longitude": -49.2947224
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Maria Carolina, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-sobrados-3-quartos-com-area-de-servico-residencial-fidelis-goiania-100m2-id-2801900218/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7434811,
+      "longitude": -49.3668123
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 8, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2000.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-cozinha-setor-marechal-rondon-goiania-100m2-id-2804355413/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.675081,
+      "longitude": -49.2591128
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Presidente Vargas, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2500.0,
+    "area_m2": 90.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-jardim-presidente-goiania-90m2-id-2800381940/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7484891,
+      "longitude": -49.3263925
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Rezende, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1900.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-sao-francisco-goiania-100m2-id-2793981021/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6660025,
+      "longitude": -49.3257041
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Anaca, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2700.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-sobrados-3-quartos-parque-amazonia-goiania-105m2-id-2788058336/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7271358,
+      "longitude": -49.2857337
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Duque de Caxias, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2200.0,
+    "area_m2": 102.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-parque-anhanguera-goiania-102m2-id-2804371522/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7250303,
+      "longitude": -49.3038785
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua D 34, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 102.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-infraestrutura-internet-conjunto-cachoeira-dourada-goiania-102m2-id-2807907219/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7233266,
+      "longitude": -49.3246911
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua CV16, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2500.0,
+    "area_m2": 98.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-churrasqueira-residencial-center-ville-goiania-98m2-id-2792886327/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7428314,
+      "longitude": -49.3461525
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Liberdade, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1300.0,
+    "area_m2": 110.0,
+    "quartos": "2",
+    "banheiros": "1",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-residencial-santa-fe-i-goiania-110m2-id-2809973225/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6691475,
+      "longitude": -49.3133722
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Caiapônia, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1350.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": "1",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-jardim-guanabara-goiania-90m2-id-2785003724/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6197346,
+      "longitude": -49.2199312
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 1013, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2300.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-quintal-setor-pedro-ludovico-goiania-100m2-id-2789699024/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7081904,
+      "longitude": -49.2468591
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua DVF10, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1500.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-novo-horizonte-goiania-105m2-id-2806335820/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Pão de Açúcar, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1600.0,
+    "area_m2": 105.0,
+    "quartos": "2",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-com-ambientes-integrados-jardim-petropolis-goiania-105m2-id-2753157396/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6623578,
+      "longitude": -49.3393191
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua do Esqualo, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2900.0,
+    "area_m2": 99.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-jardim-atlantico-goiania-99m2-id-2779002028/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7342139,
+      "longitude": -49.3006402
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 9, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1700.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": "2",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-com-area-de-servico-setor-central-goiania-90m2-id-2779468299/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6824011,
+      "longitude": -49.26324
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua G3, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2000.0,
+    "area_m2": 91.0,
+    "quartos": "2",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-com-quintal-goia-goiania-91m2-id-2786937775/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6907709,
+      "longitude": -49.338602
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Casa para alugar em, Goiânia, Brasil",
+    "preco": 2200.0,
+    "area_m2": 105.0,
+    "quartos": "2",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-vila-morais-goiania-105m2-id-2797433236/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 1020, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3000.0,
+    "area_m2": 96.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-pedro-ludovico-goiania-96m2-id-2804210882/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7108572,
+      "longitude": -49.2495352
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 1014, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1150.0,
+    "area_m2": 100.0,
+    "quartos": "1",
+    "banheiros": "1",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-1-quarto-setor-pedro-ludovico-goiania-100m2-id-2799692648/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7080652,
+      "longitude": -49.2475587
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 1, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1500.0,
+    "area_m2": 95.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-santos-dumont-goiania-95m2-id-2712887502/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6813255,
+      "longitude": -49.2530042
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Casa para alugar em, Goiânia, Brasil",
+    "preco": 1200.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-central-goiania-100m2-id-2794450713/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6974227,
+      "longitude": -49.3048327
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Zorca Vukojicic, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-de-vila-3-quartos-com-area-de-servico-jardim-balneario-meia-ponte-goiania-100m2-id-2714856610/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6198189,
+      "longitude": -49.2934717
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua das Orquídeas, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1700.0,
+    "area_m2": 100.0,
+    "quartos": "1",
+    "banheiros": "1",
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-1-quarto-jardim-marques-de-abreu-goiania-100m2-id-2708556156/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6778392,
+      "longitude": -49.3144221
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Center, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "3",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-orientville-goiania-100m2-id-2794367813/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7474999,
+      "longitude": -49.3376024
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida T 2, Casa para alugar em, Goiânia, Brasil",
+    "preco": 2450.0,
+    "area_m2": 100.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/venda-casa-3-quartos-setor-bueno-goiania-100m2-id-2727812187/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6933694,
+      "longitude": -49.2801032
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Praça Jockey Club, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3500.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-cozinha-cidade-jardim-goiania-110m2-id-2786875333/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -19.7682776,
+      "longitude": -46.3357686
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 504, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1100.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": "1",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-setor-centro-oeste-goiania-100m2-id-2795069313/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6673469,
+      "longitude": -49.2838066
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 239, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3000.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-vila-monticelli-goiania-105m2-id-2798493570/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6784097,
+      "longitude": -49.2467683
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Genipapo, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3500.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-com-quintal-santa-genoveva-goiania-110m2-id-2801894995/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6327284,
+      "longitude": -49.2384795
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua C135, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3000.0,
+    "area_m2": 103.0,
+    "quartos": "1",
+    "banheiros": "2",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-1-quarto-jardim-america-goiania-103m2-id-2767265516/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7102335,
+      "longitude": -49.282474
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida T 10, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3500.0,
+    "area_m2": 110.0,
+    "quartos": "3",
+    "banheiros": "1",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-bueno-goiania-110m2-id-2789149088/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7056638,
+      "longitude": -49.2685249
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Dona Firmina, Casa para alugar em, Goiânia, Brasil",
+    "preco": 4600.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": "3",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-de-condominio-2-quartos-com-piscina-fazenda-petropolis-residencial-monte-verde-goiania-90m2-id-2809934757/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6193668,
+      "longitude": -49.1898627
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 404, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3600.0,
+    "area_m2": 100.0,
+    "quartos": "2",
+    "banheiros": "2",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-de-condominio-2-quartos-mobiliado-setor-negrao-de-lima-goiania-100m2-id-2716622471/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6567381,
+      "longitude": -49.2373583
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 117, Casa para alugar em, Goiânia, Brasil",
+    "preco": 7000.0,
+    "area_m2": 106.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "4",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-sul-goiania-106m2-id-2802528322/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6879478,
+      "longitude": -49.2398884
+    },
+    "fonte": "zapimoveis",
+    "fontes_secundarias": [
+      "vivareal"
+    ]
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 146, Casa para alugar em, Goiânia, Brasil",
+    "preco": 3600.0,
+    "area_m2": 105.0,
+    "quartos": "3",
+    "banheiros": "2",
+    "vagas": "2",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-3-quartos-setor-marista-goiania-105m2-id-2810208022/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6955613,
+      "longitude": -49.2612003
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Segunda Avenida, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1600.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": "1",
+    "vagas": "1",
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-setor-leste-vila-nova-goiania-90m2-id-2810127834/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6693898,
+      "longitude": -49.246291
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 102C, Casa para alugar em, Goiânia, Brasil",
+    "preco": 1500.0,
+    "area_m2": 90.0,
+    "quartos": "2",
+    "banheiros": "1",
+    "vagas": null,
+    "link": "https://www.zapimoveis.com.br/imovel/aluguel-casa-2-quartos-setor-sul-goiania-90m2-id-2810125500/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6863202,
+      "longitude": -49.2512073
+    },
+    "fonte": "zapimoveis"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 26, Casa para alugar emSetor Santos Dumont, Goiânia, Goiânia, Brasil",
+    "preco": 1550.0,
+    "area_m2": 96.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-santos-dumont-goiania-com-garagem-96m2-aluguel-RS1550-id-2805184114/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6479717,
+      "longitude": -49.3416117
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua AB4, Casa para alugar emResidencial Alice Barbosa, Goiânia, Goiânia, Brasil",
+    "preco": 1700.0,
+    "area_m2": 92.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-residencial-alice-barbosa-goiania-92m2-aluguel-RS1700-id-2808318169/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.5922099,
+      "longitude": -49.2692912
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida Alfredo Nasser, Casa para alugar emConjunto Vera Cruz, Goiânia, Goiânia, Brasil",
+    "preco": 1350.0,
+    "area_m2": 100.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-2-quartos-conjunto-vera-cruz-goiania-com-garagem-100m2-aluguel-RS1350-id-2808145940/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6580437,
+      "longitude": -49.3865305
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua H, Casa para alugar emSetor Parque Tremendão, Goiânia, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 100.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-parque-tremendao-goiania-com-garagem-100m2-aluguel-RS1800-id-2806488644/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6084797,
+      "longitude": -49.3287439
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 26, Casa para alugar emSetor Santos Dumont, Goiânia, Goiânia, Brasil",
+    "preco": 1350.0,
+    "area_m2": 96.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-2-quartos-setor-santos-dumont-goiania-com-garagem-96m2-aluguel-RS1350-id-2805184113/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6479717,
+      "longitude": -49.3416117
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua DVF10, Casa para alugar emSetor Novo Horizonte, Goiânia, Goiânia, Brasil",
+    "preco": 1500.0,
+    "area_m2": 105.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-novo-horizonte-goiania-com-garagem-105m2-aluguel-RS1500-id-2806335820/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6971675,
+      "longitude": -49.299275
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 1, Casa para alugar emSetor Santos Dumont, Goiânia, Goiânia, Brasil",
+    "preco": 1500.0,
+    "area_m2": 95.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-santos-dumont-goiania-com-garagem-95m2-aluguel-RS1500-id-2712887502/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6326957,
+      "longitude": -49.3317744
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua L1, Casa para alugar emFeliz, Goiânia, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 90.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-feliz-goiania-com-garagem-90m2-aluguel-RS1800-id-2774141339/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6636232,
+      "longitude": -49.2295288
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Avenida C, Casa para alugar emSetor Morais, Goiânia, Goiânia, Brasil",
+    "preco": 1800.0,
+    "area_m2": 90.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-morais-goiania-com-garagem-90m2-aluguel-RS1800-id-2737879152/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6644729,
+      "longitude": -49.2237149
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Casa para alugar emJardim América, Goiânia, Goiânia, Brasil",
+    "preco": 2100.0,
+    "area_m2": 100.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-jardim-america-goiania-com-garagem-100m2-aluguel-RS2100-id-2785027835/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7085925,
+      "longitude": -49.2844598
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua Ruy Brasil Cavalcante, Casa para alugar emSetor Oeste, Goiânia, Goiânia, Brasil",
+    "preco": 2450.0,
+    "area_m2": 100.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-oeste-goiania-100m2-aluguel-RS2450-id-2790461513/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6897134,
+      "longitude": -49.2743903
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua 9, Casa para alugar emSetor Central, Goiânia, Goiânia, Brasil",
+    "preco": 1700.0,
+    "area_m2": 90.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-2-quartos-setor-central-goiania-90m2-aluguel-RS1700-id-2779468299/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6747771,
+      "longitude": -49.2600595
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Rua das Orquídeas, Casa para alugar emJardim Marques de Abreu, Goiânia, Goiânia, Brasil",
+    "preco": 1700.0,
+    "area_m2": 100.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-1-quartos-jardim-marques-de-abreu-goiania-com-garagem-100m2-aluguel-RS1700-id-2708556156/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.7186043,
+      "longitude": -49.3762847
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Praça Jockey Club, Casa para alugar emCidade Jardim, Goiânia, Goiânia, Brasil",
+    "preco": 3500.0,
+    "area_m2": 110.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-cidade-jardim-goiania-com-garagem-110m2-aluguel-RS3500-id-2786875333/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6869748,
+      "longitude": -49.3071155
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": "Casa para alugar emSetor Central, Goiânia, Goiânia, Brasil",
+    "preco": 1400.0,
+    "area_m2": 102.0,
+    "quartos": null,
+    "banheiros": null,
+    "vagas": null,
+    "link": "https://www.vivareal.com.br/imovel/casa-3-quartos-setor-central-goiania-102m2-aluguel-RS1400-id-2574298653/?source=ranking%2Crp",
+    "geolocalizacao": {
+      "latitude": -16.6717594,
+      "longitude": -49.2575841
+    },
+    "fonte": "vivareal"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 2500.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 550000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 13000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 6500.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 1900.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 6500.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 19500.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 2000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 4300.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 3800.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 4500.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 550000.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 3450.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 1150.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 3390.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  },
+  {
+    "tipo_imovel": "Casa",
+    "finalidade": "Aluguel",
+    "endereco": null,
+    "preco": 1200.0,
+    "area_m2": null,
+    "quartos": "",
+    "banheiros": "",
+    "vagas": "",
+    "link": null,
+    "geolocalizacao": null,
+    "fonte": "invest"
+  }
+]
